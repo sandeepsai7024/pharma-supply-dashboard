@@ -1,0 +1,1001 @@
+SKU_ID,Drug_Name,Category,Storage_Req,Current_Stock,Monthly_Demand,Unit_Cost_GBP,Lead_Time_Base_Days,Route,Customs_Delay_Factor,Predicted_Lead_Time,Stock_Runway_Days,Risk_Score
+PH-UK-1000,Pembrolizumab,Statin,Ambient,3251,1017,236.14,14,Heathrow Air,1.1,15.4,95.9,0.0
+PH-UK-1001,Adrenaline,Biologic,Ambient,3356,3209,219.18,10,Dover-Calais,2.8522426051325183,28.5,31.4,100.0
+PH-UK-1002,Insulin,Antibiotic,Ambient,731,1046,322.29,12,Felixstowe,1.1,13.2,21.0,97.6
+PH-UK-1003,Insulin,Inhaler,Cold Chain,4301,1043,135.5,6,Dover-Calais,1.7413457606960463,10.4,123.7,0.0
+PH-UK-1004,Pembrolizumab,Inhaler,Ambient,1093,2554,142.18,13,Dover-Calais,2.6715477384571718,34.7,12.8,100.0
+PH-UK-1005,Salbutamol,Oncology,Ambient,779,3482,380.81,14,Dover-Calais,2.1116761910201483,29.6,6.7,100.0
+PH-UK-1006,Amoxicillin,Antibiotic,Ambient,4366,3137,386.39,14,Dover-Calais,2.663280902687064,37.3,41.8,100.0
+PH-UK-1007,Salbutamol,Oncology,Ambient,957,2765,411.94,8,Eurotunnel,1.9476599064228428,15.6,10.4,100.0
+PH-UK-1008,Insulin,Oncology,Cold Chain,2536,2993,443.57,12,Dover-Calais,2.8822844568505883,34.6,25.4,100.0
+PH-UK-1009,Pembrolizumab,Statin,Cold Chain,1389,1235,9.27,13,Dover-Calais,2.059700623511525,26.8,33.7,100.0
+PH-UK-1010,Salbutamol,Antibiotic,Ambient,4178,4395,240.39,13,Felixstowe,1.1,14.3,28.5,85.9
+PH-UK-1011,Salbutamol,Statin,Ambient,1213,3319,473.63,9,Eurotunnel,1.5606113233805932,14.0,11.0,100.0
+PH-UK-1012,Salbutamol,Biologic,Ambient,3363,2875,146.54,11,Felixstowe,1.1,12.1,35.1,66.1
+PH-UK-1013,Salbutamol,Biologic,Cold Chain,3493,1791,403.3,8,Dover-Calais,1.762641280994424,14.1,58.5,25.299999999999997
+PH-UK-1014,Salbutamol,Oncology,Ambient,3980,1572,146.54,5,Dover-Calais,2.099482959781427,10.5,76.0,0.0
+PH-UK-1015,Atorvastatin,Inhaler,Ambient,3048,1209,15.92,8,Eurotunnel,2.5564723427468365,20.5,75.6,10.300000000000011
+PH-UK-1016,Amoxicillin,Oncology,Cold Chain,4245,3903,218.58,6,Dover-Calais,2.164030866408475,13.0,32.6,73.8
+PH-UK-1017,Atorvastatin,Biologic,Ambient,3446,1704,241.9,13,Heathrow Air,1.1,14.3,60.7,21.5
+PH-UK-1018,Atorvastatin,Emergency,Ambient,1506,3726,228.01,9,Dover-Calais,2.972065823876961,26.7,12.1,100.0
+PH-UK-1019,Adrenaline,Statin,Ambient,2823,1157,276.75,5,Dover-Calais,2.5520363532365185,12.8,73.2,0.0
+PH-UK-1020,Atorvastatin,Oncology,Ambient,1249,2278,280.04,13,Dover-Calais,2.9746697432536346,38.7,16.4,100.0
+PH-UK-1021,Atorvastatin,Emergency,Ambient,2157,3129,30.07,10,Felixstowe,1.1,11.0,20.7,91.6
+PH-UK-1022,Pembrolizumab,Inhaler,Cold Chain,992,1740,144.3,5,Felixstowe,1.1,5.5,17.1,82.3
+PH-UK-1023,Amoxicillin,Emergency,Ambient,2011,3905,5.91,14,Eurotunnel,2.4368522176651535,34.1,15.4,100.0
+PH-UK-1024,Amoxicillin,Inhaler,Cold Chain,4878,4059,309.03,10,Dover-Calais,2.8345745098309996,28.3,36.1,100.0
+PH-UK-1025,Atorvastatin,Statin,Cold Chain,1167,4203,297.33,5,Eurotunnel,2.513269698957666,12.6,8.3,100.0
+PH-UK-1026,Insulin,Inhaler,Ambient,2780,3066,173.04,10,Dover-Calais,2.5174123442190117,25.2,27.2,100.0
+PH-UK-1027,Atorvastatin,Biologic,Cold Chain,4089,3196,481.12,12,Dover-Calais,2.1064183447725036,25.3,38.4,99.10000000000001
+PH-UK-1028,Salbutamol,Statin,Ambient,1134,893,101.8,5,Dover-Calais,1.7547637408561454,8.8,38.1,50.2
+PH-UK-1029,Pembrolizumab,Emergency,Ambient,1303,3610,188.47,13,Felixstowe,1.1,14.3,10.8,100.0
+PH-UK-1030,Adrenaline,Oncology,Ambient,510,1164,137.02,5,Eurotunnel,2.5027516782983703,12.5,13.1,100.0
+PH-UK-1031,Atorvastatin,Biologic,Ambient,2319,4405,164.32,8,Eurotunnel,2.979589433877967,23.8,15.8,100.0
+PH-UK-1032,Pembrolizumab,Antibiotic,Cold Chain,4388,2934,337.69,9,Dover-Calais,1.5015330621535217,13.5,44.9,50.7
+PH-UK-1033,Salbutamol,Emergency,Cold Chain,2147,3795,334.51,13,Dover-Calais,1.7733674646666668,23.1,17.0,100.0
+PH-UK-1034,Atorvastatin,Biologic,Ambient,2676,1341,387.7,6,Dover-Calais,2.3997770721505556,14.4,59.9,23.400000000000006
+PH-UK-1035,Insulin,Oncology,Ambient,537,3796,29.17,11,Eurotunnel,2.951511273611687,32.5,4.2,100.0
+PH-UK-1036,Pembrolizumab,Antibiotic,Cold Chain,4250,2605,8.24,14,Dover-Calais,2.6982457007329668,37.8,48.9,100.0
+PH-UK-1037,Salbutamol,Statin,Ambient,1979,1049,400.84,10,Eurotunnel,2.3353289732361304,23.4,56.6,56.999999999999986
+PH-UK-1038,Adrenaline,Statin,Ambient,3222,899,272.27,10,Eurotunnel,1.907839570792598,19.1,107.5,0.0
+PH-UK-1039,Salbutamol,Biologic,Ambient,3141,1343,359.84,14,Dover-Calais,2.5038727920926,35.1,70.2,64.9
+PH-UK-1040,Insulin,Biologic,Ambient,3921,2325,74.4,9,Dover-Calais,2.21971408490702,20.0,50.6,58.8
+PH-UK-1041,Adrenaline,Biologic,Cold Chain,3158,1897,36.48,13,Eurotunnel,2.683216401725012,34.9,49.9,100.0
+PH-UK-1042,Atorvastatin,Oncology,Ambient,2491,3041,332.55,10,Dover-Calais,2.1698415691253943,21.7,24.6,100.0
+PH-UK-1043,Atorvastatin,Biologic,Cold Chain,2857,3582,88.2,12,Dover-Calais,2.6234235128642567,31.5,23.9,100.0
+PH-UK-1044,Atorvastatin,Oncology,Cold Chain,1853,1865,267.04,13,Dover-Calais,1.9443408820154708,25.3,29.8,100.0
+PH-UK-1045,Pembrolizumab,Statin,Cold Chain,1831,3515,356.18,11,Heathrow Air,1.1,12.1,15.6,100.0
+PH-UK-1046,Amoxicillin,Oncology,Cold Chain,3577,4285,452.99,10,Dover-Calais,2.098498108930602,21.0,25.0,100.0
+PH-UK-1047,Amoxicillin,Inhaler,Ambient,3529,3763,266.96,14,Dover-Calais,2.085780382329484,29.2,28.1,100.0
+PH-UK-1048,Pembrolizumab,Antibiotic,Ambient,1880,2884,383.73,13,Dover-Calais,2.423091632020701,31.5,19.6,100.0
+PH-UK-1049,Pembrolizumab,Oncology,Cold Chain,3448,3914,293.42,10,Heathrow Air,1.1,11.0,26.4,80.2
+PH-UK-1050,Amoxicillin,Inhaler,Ambient,666,937,267.92,5,Eurotunnel,2.0057090021483317,10.0,21.3,87.4
+PH-UK-1051,Insulin,Statin,Ambient,3230,3711,102.03,14,Felixstowe,1.1,15.4,26.1,94.0
+PH-UK-1052,Salbutamol,Oncology,Ambient,3205,3239,179.76,7,Heathrow Air,1.1,7.7,29.7,63.7
+PH-UK-1053,Insulin,Antibiotic,Cold Chain,4231,2198,154.01,12,Dover-Calais,2.909251948578084,34.9,57.7,89.29999999999998
+PH-UK-1054,Insulin,Emergency,Ambient,1902,2229,259.36,6,Dover-Calais,1.7775769467926357,10.7,25.6,80.89999999999999
+PH-UK-1055,Adrenaline,Oncology,Cold Chain,1692,2162,388.93,11,Felixstowe,1.1,12.1,23.5,89.3
+PH-UK-1056,Adrenaline,Antibiotic,Cold Chain,4344,1195,196.45,14,Eurotunnel,2.9988539062749626,42.0,109.1,7.800000000000011
+PH-UK-1057,Atorvastatin,Inhaler,Cold Chain,4604,2152,366.81,9,Felixstowe,1.1,9.9,64.2,1.2999999999999972
+PH-UK-1058,Atorvastatin,Oncology,Ambient,3006,1421,473.0,14,Heathrow Air,1.1,15.4,63.5,19.200000000000003
+PH-UK-1059,Adrenaline,Statin,Cold Chain,4917,932,173.35,5,Felixstowe,1.1,5.5,158.3,0.0
+PH-UK-1060,Salbutamol,Antibiotic,Cold Chain,3802,3692,286.82,7,Eurotunnel,2.8181894465889434,19.7,30.9,97.3
+PH-UK-1061,Pembrolizumab,Inhaler,Cold Chain,3509,1660,235.26,13,Dover-Calais,1.6120143102404412,21.0,63.4,36.2
+PH-UK-1062,Adrenaline,Antibiotic,Ambient,816,2748,210.43,8,Eurotunnel,1.6162207908040627,12.9,8.9,100.0
+PH-UK-1063,Salbutamol,Statin,Cold Chain,2224,4001,132.54,8,Heathrow Air,1.1,8.8,16.7,93.0
+PH-UK-1064,Atorvastatin,Inhaler,Ambient,2247,2509,48.76,12,Felixstowe,1.1,13.2,26.9,85.8
+PH-UK-1065,Insulin,Inhaler,Cold Chain,1162,2249,372.79,10,Heathrow Air,1.1,11.0,15.5,100.0
+PH-UK-1066,Amoxicillin,Inhaler,Ambient,1606,1955,499.88,11,Dover-Calais,2.66128216048571,29.3,24.6,100.0
+PH-UK-1067,Pembrolizumab,Antibiotic,Cold Chain,2072,2377,343.86,12,Dover-Calais,2.6148040293656063,31.4,26.2,100.0
+PH-UK-1068,Amoxicillin,Inhaler,Ambient,4043,2463,447.8,7,Dover-Calais,2.77715598548099,19.4,49.2,59.79999999999999
+PH-UK-1069,Insulin,Emergency,Ambient,4360,2889,324.9,7,Eurotunnel,2.7358439594562007,19.2,45.3,67.0
+PH-UK-1070,Amoxicillin,Statin,Ambient,1002,1681,369.47,12,Dover-Calais,2.873554067550933,34.5,17.9,100.0
+PH-UK-1071,Adrenaline,Oncology,Cold Chain,4544,2731,436.97,13,Felixstowe,1.1,14.3,49.9,43.10000000000001
+PH-UK-1072,Atorvastatin,Biologic,Ambient,3836,1214,111.11,11,Dover-Calais,1.5759270988995195,17.3,94.8,0.0
+PH-UK-1073,Salbutamol,Statin,Cold Chain,2104,4108,190.56,11,Heathrow Air,1.1,12.1,15.4,100.0
+PH-UK-1074,Salbutamol,Antibiotic,Cold Chain,894,1268,233.77,7,Eurotunnel,2.9778633492458555,20.8,21.2,100.0
+PH-UK-1075,Amoxicillin,Statin,Cold Chain,1268,4387,146.72,11,Felixstowe,1.1,12.1,8.7,100.0
+PH-UK-1076,Atorvastatin,Antibiotic,Ambient,893,2743,236.32,9,Dover-Calais,1.617522254831783,14.6,9.8,100.0
+PH-UK-1077,Amoxicillin,Statin,Cold Chain,603,3780,290.62,5,Heathrow Air,1.1,5.5,4.8,100.0
+PH-UK-1078,Insulin,Statin,Ambient,4488,3291,97.07,11,Felixstowe,1.1,12.1,40.9,54.5
+PH-UK-1079,Insulin,Biologic,Cold Chain,529,4287,470.06,10,Dover-Calais,2.1990964248513287,22.0,3.7,100.0
+PH-UK-1080,Pembrolizumab,Inhaler,Ambient,3144,2500,329.11,8,Dover-Calais,2.148174424456164,17.2,37.7,76.19999999999999
+PH-UK-1081,Pembrolizumab,Oncology,Ambient,3196,1711,201.01,6,Heathrow Air,1.1,6.6,56.0,7.799999999999997
+PH-UK-1082,Pembrolizumab,Inhaler,Cold Chain,4144,4256,398.0,8,Eurotunnel,1.604828163393406,12.8,29.2,80.0
+PH-UK-1083,Amoxicillin,Biologic,Ambient,2665,2583,419.27,10,Eurotunnel,2.2979241935352968,23.0,31.0,100.0
+PH-UK-1084,Adrenaline,Inhaler,Ambient,3560,2872,164.05,8,Felixstowe,1.1,8.8,37.2,52.0
+PH-UK-1085,Salbutamol,Statin,Ambient,1952,4048,272.02,5,Dover-Calais,1.5197454503537688,7.6,14.5,93.8
+PH-UK-1086,Pembrolizumab,Inhaler,Ambient,1305,1527,248.29,5,Heathrow Air,1.1,5.5,25.6,65.3
+PH-UK-1087,Atorvastatin,Oncology,Ambient,2637,4056,489.53,6,Heathrow Air,1.1,6.6,19.5,80.8
+PH-UK-1088,Insulin,Oncology,Cold Chain,3614,1555,349.24,5,Eurotunnel,1.9628750359797742,9.8,69.7,0.0
+PH-UK-1089,Amoxicillin,Inhaler,Cold Chain,4764,1810,367.95,12,Dover-Calais,2.597656503169419,31.2,79.0,35.599999999999994
+PH-UK-1090,Adrenaline,Antibiotic,Ambient,626,2232,57.93,7,Felixstowe,1.1,7.7,8.4,100.0
+PH-UK-1091,Insulin,Statin,Cold Chain,2516,3545,363.59,5,Felixstowe,1.1,5.5,21.3,73.9
+PH-UK-1092,Insulin,Antibiotic,Cold Chain,4942,2150,110.61,5,Eurotunnel,2.790255210197545,14.0,69.0,4.0
+PH-UK-1093,Insulin,Antibiotic,Cold Chain,4357,3337,6.12,7,Felixstowe,1.1,7.7,39.2,44.699999999999996
+PH-UK-1094,Insulin,Antibiotic,Cold Chain,1700,2582,378.84,14,Dover-Calais,2.048893313275382,28.7,19.8,100.0
+PH-UK-1095,Atorvastatin,Biologic,Ambient,2273,4348,220.91,10,Felixstowe,1.1,11.0,15.7,100.0
+PH-UK-1096,Salbutamol,Antibiotic,Cold Chain,2493,1010,231.21,8,Heathrow Air,1.1,8.8,74.0,0.0
+PH-UK-1097,Atorvastatin,Inhaler,Cold Chain,2038,3912,71.85,12,Dover-Calais,1.928249960303493,23.1,15.6,100.0
+PH-UK-1098,Salbutamol,Antibiotic,Ambient,818,933,432.47,5,Heathrow Air,1.1,5.5,26.3,63.9
+PH-UK-1099,Adrenaline,Antibiotic,Ambient,3948,840,339.06,6,Felixstowe,1.1,6.6,141.0,0.0
+PH-UK-1100,Amoxicillin,Inhaler,Cold Chain,795,1813,354.71,11,Dover-Calais,2.932269642456449,32.3,13.2,100.0
+PH-UK-1101,Insulin,Emergency,Cold Chain,1431,3777,117.31,10,Eurotunnel,2.686294140063935,26.9,11.4,100.0
+PH-UK-1102,Salbutamol,Antibiotic,Ambient,3340,1213,177.03,10,Felixstowe,1.1,11.0,82.6,0.0
+PH-UK-1103,Pembrolizumab,Emergency,Cold Chain,1187,3943,392.93,12,Felixstowe,1.1,13.2,9.0,100.0
+PH-UK-1104,Adrenaline,Emergency,Cold Chain,1116,3409,477.49,11,Felixstowe,1.1,12.1,9.8,100.0
+PH-UK-1105,Atorvastatin,Inhaler,Cold Chain,3165,1334,489.2,11,Eurotunnel,2.5343437731956655,27.9,71.2,41.29999999999998
+PH-UK-1106,Insulin,Inhaler,Cold Chain,3771,1565,372.45,14,Dover-Calais,1.906157996115339,26.7,72.3,35.5
+PH-UK-1107,Atorvastatin,Oncology,Ambient,4332,2658,9.59,14,Dover-Calais,2.682353686956691,37.6,48.9,100.0
+PH-UK-1108,Insulin,Statin,Cold Chain,3824,2211,278.85,13,Felixstowe,1.1,14.3,51.9,39.10000000000001
+PH-UK-1109,Salbutamol,Antibiotic,Cold Chain,1079,3341,131.28,11,Eurotunnel,2.525891741316923,27.8,9.7,100.0
+PH-UK-1110,Amoxicillin,Emergency,Ambient,533,2639,489.51,6,Felixstowe,1.1,6.6,6.1,100.0
+PH-UK-1111,Amoxicillin,Antibiotic,Ambient,4275,1454,163.13,13,Dover-Calais,1.938935475815991,25.2,88.2,0.0
+PH-UK-1112,Amoxicillin,Emergency,Ambient,1077,2330,257.66,12,Eurotunnel,2.305894396851545,27.7,13.9,100.0
+PH-UK-1113,Pembrolizumab,Statin,Cold Chain,2766,3229,362.89,12,Eurotunnel,2.436118432426268,29.2,25.7,100.0
+PH-UK-1114,Insulin,Biologic,Ambient,1339,2607,277.67,12,Felixstowe,1.1,13.2,15.4,100.0
+PH-UK-1115,Atorvastatin,Emergency,Cold Chain,4700,4055,63.38,11,Eurotunnel,2.4708664502582964,27.2,34.8,100.0
+PH-UK-1116,Amoxicillin,Antibiotic,Cold Chain,1306,1498,461.09,6,Dover-Calais,2.682949956806536,16.1,26.2,95.9
+PH-UK-1117,Salbutamol,Antibiotic,Cold Chain,1425,1237,55.13,14,Dover-Calais,1.8519369079871169,25.9,34.6,100.0
+PH-UK-1118,Pembrolizumab,Antibiotic,Cold Chain,895,3781,68.97,9,Dover-Calais,2.26847634934421,20.4,7.1,100.0
+PH-UK-1119,Salbutamol,Inhaler,Ambient,4189,2075,61.65,8,Felixstowe,1.1,8.8,60.6,5.199999999999999
+PH-UK-1120,Amoxicillin,Statin,Cold Chain,1970,1955,408.49,7,Dover-Calais,2.9298454449211118,20.5,30.2,100.0
+PH-UK-1121,Insulin,Oncology,Ambient,4168,1380,212.09,9,Eurotunnel,1.6967098573855453,15.3,90.6,0.0
+PH-UK-1122,Atorvastatin,Inhaler,Ambient,4788,4167,485.53,6,Eurotunnel,2.811965137585114,16.9,34.5,81.69999999999999
+PH-UK-1123,Adrenaline,Oncology,Ambient,4434,1436,293.86,8,Dover-Calais,2.147092855784074,17.2,92.6,0.0
+PH-UK-1124,Salbutamol,Biologic,Cold Chain,4896,4183,47.32,8,Heathrow Air,1.1,8.8,35.1,56.2
+PH-UK-1125,Atorvastatin,Inhaler,Ambient,730,2409,124.1,14,Dover-Calais,1.9958935765665244,27.9,9.1,100.0
+PH-UK-1126,Atorvastatin,Oncology,Cold Chain,1395,4406,6.46,9,Dover-Calais,1.9788669636137417,17.8,9.5,100.0
+PH-UK-1127,Amoxicillin,Emergency,Cold Chain,3096,2410,426.22,8,Eurotunnel,2.684060519896316,21.5,38.5,87.5
+PH-UK-1128,Atorvastatin,Inhaler,Ambient,584,2171,75.91,9,Dover-Calais,1.6967758830983997,15.3,8.1,100.0
+PH-UK-1129,Atorvastatin,Inhaler,Cold Chain,3466,2438,285.97,13,Eurotunnel,1.5578935122948565,20.3,42.6,75.7
+PH-UK-1130,Insulin,Emergency,Cold Chain,4426,4310,33.46,12,Eurotunnel,2.462503029916396,29.6,30.8,100.0
+PH-UK-1131,Insulin,Oncology,Ambient,3147,908,121.14,5,Eurotunnel,2.001530686416885,10.0,104.0,0.0
+PH-UK-1132,Amoxicillin,Statin,Ambient,2708,2075,307.64,13,Dover-Calais,1.6741160005741504,21.8,39.2,87.0
+PH-UK-1133,Atorvastatin,Biologic,Ambient,3343,1591,165.12,6,Felixstowe,1.1,6.6,63.0,0.0
+PH-UK-1134,Amoxicillin,Statin,Ambient,4485,4316,178.59,14,Eurotunnel,2.0932653120834823,29.3,31.2,100.0
+PH-UK-1135,Amoxicillin,Biologic,Ambient,4172,3932,370.53,12,Dover-Calais,1.6011970771439479,19.2,31.8,94.0
+PH-UK-1136,Pembrolizumab,Biologic,Ambient,2290,3316,431.4,6,Eurotunnel,2.8806910126869214,17.3,20.7,100.0
+PH-UK-1137,Insulin,Antibiotic,Cold Chain,2712,2773,60.83,8,Dover-Calais,1.8615411142266485,14.9,29.3,86.1
+PH-UK-1138,Atorvastatin,Statin,Cold Chain,923,2275,314.78,8,Eurotunnel,1.8502895610093455,14.8,12.2,100.0
+PH-UK-1139,Atorvastatin,Statin,Ambient,3962,1110,58.14,12,Eurotunnel,2.898085841327352,34.8,107.1,0.0
+PH-UK-1140,Atorvastatin,Antibiotic,Ambient,2576,3319,276.9,11,Felixstowe,1.1,12.1,23.3,89.69999999999999
+PH-UK-1141,Atorvastatin,Oncology,Ambient,1386,3187,140.26,11,Dover-Calais,1.8650767294794246,20.5,13.0,100.0
+PH-UK-1142,Insulin,Statin,Cold Chain,1943,3553,19.45,9,Dover-Calais,2.572260075543949,23.2,16.4,100.0
+PH-UK-1143,Atorvastatin,Inhaler,Ambient,3722,1649,451.73,14,Felixstowe,1.1,15.4,67.7,10.799999999999997
+PH-UK-1144,Atorvastatin,Oncology,Ambient,4441,3915,302.61,11,Eurotunnel,1.632689399600228,18.0,34.0,86.0
+PH-UK-1145,Pembrolizumab,Antibiotic,Ambient,856,3288,481.53,8,Felixstowe,1.1,8.8,7.8,100.0
+PH-UK-1146,Salbutamol,Statin,Ambient,4122,3927,458.69,10,Felixstowe,1.1,11.0,31.5,70.0
+PH-UK-1147,Amoxicillin,Biologic,Cold Chain,4541,3056,338.92,6,Dover-Calais,2.592710850206609,15.6,44.6,57.599999999999994
+PH-UK-1148,Salbutamol,Inhaler,Cold Chain,4421,3303,469.79,7,Eurotunnel,2.2674127677139584,15.9,40.2,67.3
+PH-UK-1149,Amoxicillin,Statin,Cold Chain,2526,2609,461.68,9,Dover-Calais,1.535395994121453,13.8,29.0,83.4
+PH-UK-1150,Atorvastatin,Inhaler,Ambient,580,3403,429.84,7,Dover-Calais,2.23509051745687,15.6,5.1,100.0
+PH-UK-1151,Pembrolizumab,Statin,Ambient,1822,1233,93.41,11,Heathrow Air,1.1,12.1,44.3,47.7
+PH-UK-1152,Amoxicillin,Statin,Ambient,804,2271,77.25,12,Eurotunnel,2.2425944533671567,26.9,10.6,100.0
+PH-UK-1153,Atorvastatin,Oncology,Cold Chain,1872,3150,249.13,10,Dover-Calais,1.9480142947397325,19.5,17.8,100.0
+PH-UK-1154,Atorvastatin,Biologic,Cold Chain,503,2629,56.58,12,Felixstowe,1.1,13.2,5.7,100.0
+PH-UK-1155,Insulin,Oncology,Cold Chain,922,1608,102.97,8,Felixstowe,1.1,8.8,17.2,92.0
+PH-UK-1156,Insulin,Emergency,Ambient,1905,3753,414.26,12,Felixstowe,1.1,13.2,15.2,100.0
+PH-UK-1157,Pembrolizumab,Emergency,Ambient,2181,3952,486.15,13,Eurotunnel,2.7948394645110834,36.3,16.6,100.0
+PH-UK-1158,Adrenaline,Oncology,Cold Chain,3805,1739,52.66,14,Dover-Calais,1.673291661544848,23.4,65.6,39.0
+PH-UK-1159,Amoxicillin,Emergency,Cold Chain,755,4336,322.13,7,Eurotunnel,1.9273087719743798,13.5,5.2,100.0
+PH-UK-1160,Salbutamol,Biologic,Ambient,3861,1598,245.78,7,Eurotunnel,2.8843875844539624,20.2,72.5,15.599999999999994
+PH-UK-1161,Adrenaline,Emergency,Ambient,2932,3071,205.32,11,Dover-Calais,2.680143806970346,29.5,28.6,100.0
+PH-UK-1162,Insulin,Biologic,Cold Chain,4043,2668,448.57,12,Eurotunnel,1.8164254858482691,21.8,45.5,74.4
+PH-UK-1163,Amoxicillin,Oncology,Ambient,2816,4105,443.24,5,Felixstowe,1.1,5.5,20.6,75.3
+PH-UK-1164,Adrenaline,Emergency,Ambient,840,2083,364.7,7,Dover-Calais,1.7253080680997686,12.1,12.1,100.0
+PH-UK-1165,Amoxicillin,Antibiotic,Ambient,2895,3274,153.23,14,Heathrow Air,1.1,15.4,26.5,93.2
+PH-UK-1166,Insulin,Statin,Cold Chain,2278,1631,74.19,5,Dover-Calais,2.1755096324159533,10.9,41.9,48.900000000000006
+PH-UK-1167,Salbutamol,Inhaler,Cold Chain,4809,2401,295.27,7,Dover-Calais,2.545836318156438,17.8,60.1,33.2
+PH-UK-1168,Atorvastatin,Inhaler,Ambient,1077,2744,227.91,12,Dover-Calais,1.5412808801727738,18.5,11.8,100.0
+PH-UK-1169,Amoxicillin,Emergency,Ambient,3791,2125,347.43,5,Eurotunnel,2.421844389823645,12.1,53.5,29.299999999999997
+PH-UK-1170,Amoxicillin,Biologic,Ambient,2021,3934,315.47,13,Felixstowe,1.1,14.3,15.4,100.0
+PH-UK-1171,Salbutamol,Biologic,Ambient,1986,2905,262.06,13,Eurotunnel,1.9654514304033261,25.6,20.5,100.0
+PH-UK-1172,Amoxicillin,Oncology,Cold Chain,982,2846,453.97,8,Dover-Calais,1.8264094615086333,14.6,10.4,100.0
+PH-UK-1173,Salbutamol,Biologic,Cold Chain,3662,4036,454.56,9,Heathrow Air,1.1,9.9,27.2,75.30000000000001
+PH-UK-1174,Atorvastatin,Statin,Ambient,1938,4141,248.62,5,Dover-Calais,2.4795627732277867,12.4,14.0,100.0
+PH-UK-1175,Atorvastatin,Inhaler,Cold Chain,4321,3350,63.33,14,Heathrow Air,1.1,15.4,38.7,68.8
+PH-UK-1176,Atorvastatin,Antibiotic,Ambient,666,3405,341.17,6,Felixstowe,1.1,6.6,5.9,100.0
+PH-UK-1177,Adrenaline,Inhaler,Cold Chain,2369,3824,381.53,5,Heathrow Air,1.1,5.5,18.6,79.3
+PH-UK-1178,Atorvastatin,Antibiotic,Ambient,986,1397,413.85,8,Dover-Calais,2.548786070855299,20.4,21.2,100.0
+PH-UK-1179,Adrenaline,Inhaler,Ambient,4665,2677,496.89,6,Dover-Calais,2.6490591687959704,15.9,52.3,43.10000000000001
+PH-UK-1180,Pembrolizumab,Antibiotic,Cold Chain,867,4372,173.54,11,Dover-Calais,1.975892065971808,21.7,5.9,100.0
+PH-UK-1181,Amoxicillin,Emergency,Cold Chain,2716,2181,18.98,5,Felixstowe,1.1,5.5,37.4,41.7
+PH-UK-1182,Insulin,Emergency,Cold Chain,1205,2621,353.08,12,Felixstowe,1.1,13.2,13.8,100.0
+PH-UK-1183,Adrenaline,Oncology,Ambient,1464,2397,398.45,11,Dover-Calais,2.484988497215454,27.3,18.3,100.0
+PH-UK-1184,Atorvastatin,Statin,Ambient,3676,2834,242.92,7,Dover-Calais,2.0492187961774437,14.3,38.9,65.10000000000001
+PH-UK-1185,Pembrolizumab,Oncology,Cold Chain,4808,2270,18.24,10,Felixstowe,1.1,11.0,63.5,6.0
+PH-UK-1186,Salbutamol,Emergency,Ambient,1559,3424,468.98,12,Eurotunnel,2.2899734164116943,27.5,13.7,100.0
+PH-UK-1187,Adrenaline,Biologic,Ambient,1857,4318,105.41,9,Felixstowe,1.1,9.9,12.9,100.0
+PH-UK-1188,Amoxicillin,Biologic,Ambient,525,4185,158.32,9,Felixstowe,1.1,9.9,3.8,100.0
+PH-UK-1189,Atorvastatin,Emergency,Cold Chain,3466,1234,232.91,14,Dover-Calais,1.9737133721491678,27.6,84.3,14.200000000000017
+PH-UK-1190,Atorvastatin,Oncology,Cold Chain,3611,2867,412.72,6,Dover-Calais,2.6601455450877434,16.0,37.8,72.4
+PH-UK-1191,Atorvastatin,Inhaler,Cold Chain,1361,1783,330.76,6,Dover-Calais,2.823714682105227,16.9,22.9,100.0
+PH-UK-1192,Adrenaline,Emergency,Cold Chain,529,4200,377.29,5,Dover-Calais,2.1672601239986484,10.8,3.8,100.0
+PH-UK-1193,Atorvastatin,Statin,Cold Chain,1195,2886,68.99,5,Dover-Calais,2.280279858048375,11.4,12.4,100.0
+PH-UK-1194,Pembrolizumab,Statin,Ambient,1457,3913,57.09,13,Dover-Calais,1.9534326200359828,25.4,11.2,100.0
+PH-UK-1195,Pembrolizumab,Emergency,Ambient,3615,2053,392.44,14,Felixstowe,1.1,15.4,52.8,40.60000000000001
+PH-UK-1196,Insulin,Inhaler,Cold Chain,867,4327,299.01,8,Felixstowe,1.1,8.8,6.0,100.0
+PH-UK-1197,Pembrolizumab,Inhaler,Cold Chain,4659,3297,235.17,13,Eurotunnel,1.6800273132465022,21.8,42.4,80.60000000000001
+PH-UK-1198,Pembrolizumab,Emergency,Cold Chain,3495,3677,415.46,14,Dover-Calais,1.8161642139492868,25.4,28.5,100.0
+PH-UK-1199,Amoxicillin,Oncology,Cold Chain,1786,812,248.87,12,Eurotunnel,2.0609337474020366,24.7,66.0,42.099999999999994
+PH-UK-1200,Amoxicillin,Statin,Ambient,4065,3154,65.87,13,Felixstowe,1.1,14.3,38.7,65.5
+PH-UK-1201,Pembrolizumab,Antibiotic,Ambient,4582,941,206.28,12,Heathrow Air,1.1,13.2,146.1,0.0
+PH-UK-1202,Pembrolizumab,Biologic,Cold Chain,967,1762,392.1,5,Felixstowe,1.1,5.5,16.5,83.5
+PH-UK-1203,Adrenaline,Biologic,Cold Chain,2448,3431,126.1,8,Eurotunnel,2.478873451876325,19.8,21.4,100.0
+PH-UK-1204,Amoxicillin,Inhaler,Cold Chain,4775,4313,46.7,8,Eurotunnel,1.576752500422408,12.6,33.2,71.39999999999999
+PH-UK-1205,Insulin,Oncology,Cold Chain,2260,2004,305.96,11,Felixstowe,1.1,12.1,33.8,68.7
+PH-UK-1206,Insulin,Emergency,Ambient,1620,1319,163.42,14,Eurotunnel,2.8654349496828617,40.1,36.8,100.0
+PH-UK-1207,Atorvastatin,Statin,Ambient,4934,1434,454.61,8,Eurotunnel,2.830007855539716,22.6,103.2,0.0
+PH-UK-1208,Pembrolizumab,Antibiotic,Cold Chain,3767,2430,163.79,9,Felixstowe,1.1,9.9,46.5,36.7
+PH-UK-1209,Pembrolizumab,Oncology,Ambient,4824,2486,20.69,13,Felixstowe,1.1,14.3,58.2,26.5
+PH-UK-1210,Salbutamol,Emergency,Cold Chain,3065,4361,486.24,11,Heathrow Air,1.1,12.1,21.1,94.1
+PH-UK-1211,Pembrolizumab,Emergency,Cold Chain,4369,2095,458.25,8,Felixstowe,1.1,8.8,62.6,1.1999999999999993
+PH-UK-1212,Atorvastatin,Oncology,Cold Chain,3092,3182,433.74,13,Eurotunnel,2.3408344784173565,30.4,29.2,100.0
+PH-UK-1213,Pembrolizumab,Biologic,Cold Chain,4719,3493,332.03,11,Dover-Calais,1.7924129431044131,19.7,40.5,78.1
+PH-UK-1214,Insulin,Inhaler,Cold Chain,4478,1021,76.12,10,Dover-Calais,1.8735992234491117,18.7,131.6,0.0
+PH-UK-1215,Pembrolizumab,Antibiotic,Ambient,1387,3059,146.7,8,Felixstowe,1.1,8.8,13.6,99.2
+PH-UK-1216,Salbutamol,Antibiotic,Cold Chain,2862,1136,93.91,13,Dover-Calais,1.7531149346650237,22.8,75.6,17.200000000000017
+PH-UK-1217,Adrenaline,Statin,Cold Chain,3109,2510,351.29,7,Eurotunnel,2.9081839482110903,20.4,37.2,86.79999999999998
+PH-UK-1218,Salbutamol,Antibiotic,Cold Chain,4389,2657,69.12,13,Dover-Calais,2.625910976337032,34.1,49.6,100.0
+PH-UK-1219,Amoxicillin,Statin,Cold Chain,1854,1130,451.08,12,Eurotunnel,2.1681934505911875,26.0,49.2,79.6
+PH-UK-1220,Adrenaline,Oncology,Cold Chain,1528,1367,480.25,14,Eurotunnel,2.674597653961381,37.4,33.5,100.0
+PH-UK-1221,Salbutamol,Statin,Ambient,1438,4174,10.95,10,Dover-Calais,2.5969433286772095,26.0,10.3,100.0
+PH-UK-1222,Atorvastatin,Emergency,Cold Chain,3199,2547,208.23,8,Eurotunnel,2.0285130071225295,16.2,37.7,73.19999999999999
+PH-UK-1223,Salbutamol,Inhaler,Ambient,571,1033,69.89,13,Dover-Calais,1.7526607622740278,22.8,16.6,100.0
+PH-UK-1224,Atorvastatin,Emergency,Ambient,3652,3034,92.16,5,Eurotunnel,2.803991505326427,14.0,36.1,69.8
+PH-UK-1225,Insulin,Oncology,Ambient,687,1808,348.86,7,Felixstowe,1.1,7.7,11.4,100.0
+PH-UK-1226,Pembrolizumab,Statin,Ambient,4702,2250,226.8,5,Eurotunnel,2.9543301406411864,14.8,62.7,19.0
+PH-UK-1227,Adrenaline,Antibiotic,Ambient,1182,3629,459.87,9,Eurotunnel,2.7748646925107305,25.0,9.8,100.0
+PH-UK-1228,Pembrolizumab,Statin,Cold Chain,3646,2723,76.68,7,Dover-Calais,2.7824259525614394,19.5,40.2,78.1
+PH-UK-1229,Pembrolizumab,Emergency,Cold Chain,3796,3367,42.93,5,Eurotunnel,2.636149002000505,13.2,33.8,72.0
+PH-UK-1230,Pembrolizumab,Emergency,Ambient,4754,944,192.28,7,Dover-Calais,2.1019391439903226,14.7,151.1,0.0
+PH-UK-1231,Amoxicillin,Biologic,Ambient,1688,2982,177.96,13,Eurotunnel,1.6369969941439577,21.3,17.0,100.0
+PH-UK-1232,Salbutamol,Antibiotic,Ambient,1286,1405,86.57,12,Dover-Calais,2.0194190764226274,24.2,27.5,100.0
+PH-UK-1233,Pembrolizumab,Oncology,Ambient,4303,2305,66.86,8,Dover-Calais,2.4564849018249832,19.7,56.0,47.099999999999994
+PH-UK-1234,Adrenaline,Oncology,Ambient,4900,1797,236.55,14,Dover-Calais,1.5787413861129989,22.1,81.8,2.700000000000017
+PH-UK-1235,Atorvastatin,Biologic,Ambient,4877,3819,439.56,7,Eurotunnel,1.5341294536417474,10.7,38.3,55.5
+PH-UK-1236,Amoxicillin,Inhaler,Cold Chain,3104,3005,423.46,12,Felixstowe,1.1,13.2,31.0,77.6
+PH-UK-1237,Adrenaline,Biologic,Cold Chain,2965,3075,240.07,7,Eurotunnel,2.4482989278890877,17.1,28.9,93.5
+PH-UK-1238,Adrenaline,Biologic,Cold Chain,1557,3810,17.22,14,Felixstowe,1.1,15.4,12.3,100.0
+PH-UK-1239,Salbutamol,Antibiotic,Ambient,2485,1615,389.37,13,Dover-Calais,1.8149147329726634,23.6,46.2,78.4
+PH-UK-1240,Insulin,Oncology,Cold Chain,2073,3259,108.47,12,Dover-Calais,2.767741369954614,33.2,19.1,100.0
+PH-UK-1241,Insulin,Inhaler,Cold Chain,2492,1616,367.52,7,Felixstowe,1.1,7.7,46.3,30.500000000000007
+PH-UK-1242,Salbutamol,Statin,Cold Chain,890,2500,417.83,8,Felixstowe,1.1,8.8,10.7,100.0
+PH-UK-1243,Salbutamol,Biologic,Cold Chain,2166,3196,321.07,9,Dover-Calais,2.708152934546195,24.4,20.3,100.0
+PH-UK-1244,Adrenaline,Antibiotic,Cold Chain,828,3370,489.39,12,Dover-Calais,1.842636749518079,22.1,7.4,100.0
+PH-UK-1245,Salbutamol,Statin,Ambient,3981,4115,76.02,7,Eurotunnel,1.5346738410440899,10.7,29.0,74.1
+PH-UK-1246,Amoxicillin,Biologic,Cold Chain,4319,4414,275.81,14,Dover-Calais,1.7852885069731406,25.0,29.4,100.0
+PH-UK-1247,Amoxicillin,Inhaler,Cold Chain,1476,4404,317.51,5,Felixstowe,1.1,5.5,10.1,96.3
+PH-UK-1248,Atorvastatin,Biologic,Ambient,3534,3640,188.91,11,Eurotunnel,1.6484729458172487,18.1,29.1,96.1
+PH-UK-1249,Atorvastatin,Inhaler,Cold Chain,3463,1163,493.17,7,Eurotunnel,2.9511500264318036,20.7,89.3,0.0
+PH-UK-1250,Pembrolizumab,Antibiotic,Cold Chain,3240,1432,449.5,7,Eurotunnel,2.9309975719852113,20.5,67.9,25.69999999999999
+PH-UK-1251,Atorvastatin,Antibiotic,Ambient,3444,3963,444.48,8,Dover-Calais,2.332948369571124,18.7,26.1,100.0
+PH-UK-1252,Atorvastatin,Emergency,Cold Chain,1650,964,375.67,12,Felixstowe,1.1,13.2,51.3,37.0
+PH-UK-1253,Adrenaline,Emergency,Cold Chain,4034,880,210.88,8,Eurotunnel,2.4498963011140416,19.6,137.5,0.0
+PH-UK-1254,Atorvastatin,Emergency,Ambient,3039,2241,226.47,5,Dover-Calais,2.5550660083491197,12.8,40.7,57.0
+PH-UK-1255,Insulin,Emergency,Ambient,4550,1245,171.59,7,Eurotunnel,2.5437365252211444,17.8,109.6,0.0
+PH-UK-1256,Amoxicillin,Statin,Cold Chain,569,3654,5.42,5,Dover-Calais,1.534089051782979,7.7,4.7,100.0
+PH-UK-1257,Salbutamol,Inhaler,Ambient,1076,2387,456.75,11,Heathrow Air,1.1,12.1,13.5,100.0
+PH-UK-1258,Pembrolizumab,Biologic,Ambient,4015,976,482.13,14,Felixstowe,1.1,15.4,123.4,0.0
+PH-UK-1259,Amoxicillin,Oncology,Ambient,3860,2516,421.21,8,Dover-Calais,2.4769012077909887,19.8,46.0,67.4
+PH-UK-1260,Adrenaline,Antibiotic,Cold Chain,3323,3856,275.63,9,Dover-Calais,1.6903682886507791,15.2,25.9,93.8
+PH-UK-1261,Atorvastatin,Inhaler,Ambient,4888,3624,141.82,14,Dover-Calais,1.628984037689869,22.8,40.5,87.4
+PH-UK-1262,Atorvastatin,Emergency,Ambient,2885,1404,331.39,5,Dover-Calais,2.45629850899145,12.3,61.6,13.700000000000003
+PH-UK-1263,Atorvastatin,Inhaler,Ambient,1642,3741,393.24,14,Felixstowe,1.1,15.4,13.2,100.0
+PH-UK-1264,Insulin,Inhaler,Cold Chain,3099,1291,45.83,14,Dover-Calais,2.8582057499832025,40.0,72.0,76.0
+PH-UK-1265,Adrenaline,Biologic,Ambient,4054,2033,414.19,14,Felixstowe,1.1,15.4,59.8,26.60000000000001
+PH-UK-1266,Atorvastatin,Emergency,Cold Chain,2719,2299,191.54,5,Felixstowe,1.1,5.5,35.5,45.5
+PH-UK-1267,Adrenaline,Emergency,Ambient,3865,2887,323.52,8,Dover-Calais,1.893765750250654,15.2,40.2,65.19999999999999
+PH-UK-1268,Adrenaline,Antibiotic,Cold Chain,4237,2068,145.87,12,Heathrow Air,1.1,13.2,61.5,16.599999999999994
+PH-UK-1269,Atorvastatin,Antibiotic,Cold Chain,3898,2936,225.67,7,Eurotunnel,1.684098113255928,11.8,39.8,55.80000000000001
+PH-UK-1270,Adrenaline,Antibiotic,Ambient,2104,1222,115.95,9,Dover-Calais,2.5212909167030917,22.7,51.7,64.69999999999999
+PH-UK-1271,Adrenaline,Antibiotic,Ambient,4079,3765,435.25,13,Felixstowe,1.1,14.3,32.5,77.9
+PH-UK-1272,Insulin,Statin,Cold Chain,3391,3471,482.09,7,Felixstowe,1.1,7.7,29.3,64.5
+PH-UK-1273,Atorvastatin,Biologic,Ambient,2073,2623,92.34,13,Dover-Calais,2.05725093177475,26.7,23.7,100.0
+PH-UK-1274,Salbutamol,Oncology,Cold Chain,1489,1796,72.38,13,Dover-Calais,1.5042227485843762,19.6,24.9,100.0
+PH-UK-1275,Atorvastatin,Inhaler,Cold Chain,931,1409,81.15,11,Eurotunnel,1.6233174136115696,17.9,19.8,100.0
+PH-UK-1276,Amoxicillin,Antibiotic,Cold Chain,4139,1792,104.59,12,Felixstowe,1.1,13.2,69.3,1.0
+PH-UK-1277,Amoxicillin,Inhaler,Ambient,2566,3008,142.88,5,Eurotunnel,2.2634486869393533,11.3,25.6,82.7
+PH-UK-1278,Atorvastatin,Statin,Ambient,1980,2670,390.13,7,Felixstowe,1.1,7.7,22.2,78.7
+PH-UK-1279,Pembrolizumab,Inhaler,Ambient,4489,1998,203.26,13,Dover-Calais,2.0753008866124603,27.0,67.4,46.19999999999999
+PH-UK-1280,Atorvastatin,Emergency,Ambient,1209,3091,437.62,9,Heathrow Air,1.1,9.9,11.7,100.0
+PH-UK-1281,Salbutamol,Emergency,Cold Chain,2093,2177,145.61,10,Eurotunnel,2.1939850496214066,21.9,28.8,100.0
+PH-UK-1282,Insulin,Inhaler,Ambient,4825,2704,419.82,8,Eurotunnel,1.6840160279225,13.5,53.5,33.5
+PH-UK-1283,Atorvastatin,Emergency,Cold Chain,4503,3706,398.71,5,Eurotunnel,1.6336079029776949,8.2,36.5,51.599999999999994
+PH-UK-1284,Atorvastatin,Antibiotic,Ambient,4821,2629,430.53,11,Dover-Calais,2.0287732453358807,22.3,55.0,56.900000000000006
+PH-UK-1285,Insulin,Oncology,Cold Chain,1584,4327,195.9,7,Dover-Calais,2.942416589501363,20.6,11.0,100.0
+PH-UK-1286,Adrenaline,Antibiotic,Cold Chain,1944,4252,256.17,8,Heathrow Air,1.1,8.8,13.7,99.0
+PH-UK-1287,Salbutamol,Antibiotic,Cold Chain,844,1551,220.27,12,Dover-Calais,2.312450320567925,27.7,16.3,100.0
+PH-UK-1288,Atorvastatin,Statin,Cold Chain,2778,2811,105.24,10,Dover-Calais,2.495371293670049,25.0,29.6,100.0
+PH-UK-1289,Adrenaline,Statin,Cold Chain,3423,3186,162.95,9,Dover-Calais,2.507237316608859,22.6,32.2,100.0
+PH-UK-1290,Atorvastatin,Emergency,Cold Chain,3076,3142,211.64,11,Dover-Calais,2.603359035359269,28.6,29.4,100.0
+PH-UK-1291,Atorvastatin,Statin,Cold Chain,2510,3870,371.8,11,Eurotunnel,1.510998396252539,16.6,19.5,100.0
+PH-UK-1292,Amoxicillin,Statin,Ambient,4561,4350,182.24,8,Dover-Calais,1.7870700949906488,14.3,31.5,79.9
+PH-UK-1293,Atorvastatin,Statin,Ambient,729,2359,417.81,11,Dover-Calais,2.8769235711751313,31.6,9.3,100.0
+PH-UK-1294,Insulin,Statin,Cold Chain,2666,1952,149.34,12,Dover-Calais,2.4998961856928146,30.0,41.0,100.0
+PH-UK-1295,Atorvastatin,Inhaler,Ambient,3501,1847,99.67,10,Dover-Calais,2.924200553736514,29.2,56.9,73.8
+PH-UK-1296,Atorvastatin,Antibiotic,Cold Chain,2088,3514,227.83,9,Dover-Calais,1.6852611385798593,15.2,17.8,100.0
+PH-UK-1297,Salbutamol,Statin,Cold Chain,2843,1959,121.37,10,Eurotunnel,1.5346393374698402,15.3,43.5,58.900000000000006
+PH-UK-1298,Atorvastatin,Inhaler,Ambient,1032,895,142.74,14,Dover-Calais,2.7400763320100716,38.4,34.6,100.0
+PH-UK-1299,Adrenaline,Oncology,Ambient,4966,888,476.29,8,Eurotunnel,2.5959313998152926,20.8,167.8,0.0
+PH-UK-1300,Salbutamol,Inhaler,Cold Chain,2646,1321,158.83,13,Eurotunnel,2.7214616979963453,35.4,60.1,85.99999999999999
+PH-UK-1301,Atorvastatin,Emergency,Cold Chain,1512,951,364.28,11,Dover-Calais,1.6319452995258517,18.0,47.7,58.599999999999994
+PH-UK-1302,Insulin,Inhaler,Cold Chain,1192,4420,442.24,14,Felixstowe,1.1,15.4,8.1,100.0
+PH-UK-1303,Amoxicillin,Emergency,Ambient,2114,1391,107.91,11,Felixstowe,1.1,12.1,45.6,45.099999999999994
+PH-UK-1304,Insulin,Statin,Cold Chain,1761,1105,252.8,7,Dover-Calais,2.48929560345194,17.4,47.8,56.6
+PH-UK-1305,Pembrolizumab,Biologic,Cold Chain,4961,1539,214.35,8,Dover-Calais,1.8062663526698142,14.5,96.7,0.0
+PH-UK-1306,Insulin,Antibiotic,Cold Chain,1492,869,104.32,14,Heathrow Air,1.1,15.4,51.5,43.2
+PH-UK-1307,Atorvastatin,Biologic,Cold Chain,3683,2101,181.13,11,Felixstowe,1.1,12.1,52.6,31.099999999999994
+PH-UK-1308,Insulin,Antibiotic,Ambient,2325,3080,213.61,10,Felixstowe,1.1,11.0,22.6,87.8
+PH-UK-1309,Amoxicillin,Statin,Ambient,3273,1662,341.75,7,Eurotunnel,2.1370727294862695,15.0,59.1,26.799999999999997
+PH-UK-1310,Salbutamol,Emergency,Cold Chain,3506,4013,341.84,10,Eurotunnel,2.4668048982971613,24.7,26.2,100.0
+PH-UK-1311,Pembrolizumab,Antibiotic,Cold Chain,3919,3837,413.95,5,Eurotunnel,2.7461051369823113,13.7,30.6,79.89999999999999
+PH-UK-1312,Atorvastatin,Oncology,Ambient,1265,1910,405.95,14,Felixstowe,1.1,15.4,19.9,100.0
+PH-UK-1313,Insulin,Emergency,Cold Chain,3525,1296,102.2,8,Felixstowe,1.1,8.8,81.6,0.0
+PH-UK-1314,Amoxicillin,Statin,Ambient,4295,1490,273.51,7,Dover-Calais,1.6291607095581566,11.4,86.5,0.0
+PH-UK-1315,Amoxicillin,Biologic,Cold Chain,2495,2278,326.0,12,Dover-Calais,1.7592959081468753,21.1,32.9,97.5
+PH-UK-1316,Salbutamol,Biologic,Cold Chain,4552,3744,85.61,14,Dover-Calais,2.4389254176956525,34.1,36.5,100.0
+PH-UK-1317,Amoxicillin,Antibiotic,Cold Chain,2980,3552,309.15,7,Dover-Calais,2.518453507542217,17.6,25.2,100.0
+PH-UK-1318,Atorvastatin,Emergency,Ambient,1279,1319,343.26,6,Eurotunnel,1.8001935280475991,10.8,29.1,74.2
+PH-UK-1319,Salbutamol,Inhaler,Cold Chain,3151,1730,287.11,13,Dover-Calais,1.75554215016757,22.8,54.6,59.2
+PH-UK-1320,Salbutamol,Biologic,Cold Chain,1035,3861,117.45,11,Felixstowe,1.1,12.1,8.0,100.0
+PH-UK-1321,Pembrolizumab,Emergency,Ambient,4449,4280,69.93,5,Felixstowe,1.1,5.5,31.2,54.1
+PH-UK-1322,Salbutamol,Statin,Cold Chain,1268,2453,274.68,12,Eurotunnel,1.7706105151732685,21.2,15.5,100.0
+PH-UK-1323,Pembrolizumab,Statin,Ambient,3042,1565,238.83,10,Dover-Calais,2.1879095385743392,21.9,58.3,49.099999999999994
+PH-UK-1324,Atorvastatin,Oncology,Cold Chain,1322,3897,186.96,5,Felixstowe,1.1,5.5,10.2,96.1
+PH-UK-1325,Salbutamol,Emergency,Cold Chain,601,3154,422.26,13,Dover-Calais,2.555074308350664,33.2,5.7,100.0
+PH-UK-1326,Insulin,Emergency,Ambient,1261,2138,437.07,13,Heathrow Air,1.1,14.3,17.7,100.0
+PH-UK-1327,Salbutamol,Statin,Ambient,1567,1436,411.54,14,Dover-Calais,2.642735608113809,37.0,32.7,100.0
+PH-UK-1328,Atorvastatin,Oncology,Cold Chain,3013,2755,99.81,11,Eurotunnel,1.646768470261427,18.1,32.8,88.70000000000002
+PH-UK-1329,Atorvastatin,Statin,Ambient,2535,3530,149.8,8,Dover-Calais,1.5149751930408886,12.1,21.5,93.3
+PH-UK-1330,Pembrolizumab,Statin,Ambient,4882,1402,405.03,6,Dover-Calais,2.7105116353225274,16.3,104.5,0.0
+PH-UK-1331,Adrenaline,Inhaler,Ambient,3904,1132,333.23,6,Dover-Calais,1.7976737548810078,10.8,103.5,0.0
+PH-UK-1332,Salbutamol,Biologic,Cold Chain,1303,2397,68.7,5,Heathrow Air,1.1,5.5,16.3,83.9
+PH-UK-1333,Pembrolizumab,Oncology,Cold Chain,2658,3047,16.42,6,Dover-Calais,2.5205421966123835,15.1,26.2,92.9
+PH-UK-1334,Insulin,Inhaler,Ambient,3222,4112,134.88,10,Heathrow Air,1.1,11.0,23.5,86.0
+PH-UK-1335,Pembrolizumab,Emergency,Ambient,4435,1690,379.87,13,Eurotunnel,2.5760973268512672,33.5,78.7,43.099999999999994
+PH-UK-1336,Salbutamol,Antibiotic,Ambient,996,3849,392.98,7,Eurotunnel,2.3521647187489076,16.5,7.8,100.0
+PH-UK-1337,Atorvastatin,Biologic,Cold Chain,3819,1022,371.62,6,Dover-Calais,2.250752036876337,13.5,112.1,0.0
+PH-UK-1338,Insulin,Oncology,Cold Chain,4541,3504,370.48,11,Eurotunnel,2.2613560299056563,24.9,38.9,96.89999999999999
+PH-UK-1339,Pembrolizumab,Oncology,Ambient,4755,1487,11.08,10,Dover-Calais,2.33098080670596,23.3,95.9,0.0
+PH-UK-1340,Adrenaline,Inhaler,Ambient,1969,3474,393.76,8,Eurotunnel,1.6167803928643516,12.9,17.0,100.0
+PH-UK-1341,Insulin,Biologic,Cold Chain,2517,3012,371.39,8,Dover-Calais,1.7765033606202154,14.2,25.1,92.39999999999999
+PH-UK-1342,Atorvastatin,Emergency,Ambient,1449,2474,455.97,14,Heathrow Air,1.1,15.4,17.6,100.0
+PH-UK-1343,Adrenaline,Inhaler,Cold Chain,2514,1133,460.23,14,Dover-Calais,1.77594827269919,24.9,66.6,41.5
+PH-UK-1344,Amoxicillin,Emergency,Cold Chain,1701,949,83.4,14,Dover-Calais,2.2093575122808913,30.9,53.8,85.1
+PH-UK-1345,Amoxicillin,Antibiotic,Cold Chain,2365,1375,399.59,9,Dover-Calais,2.3200473860729245,20.9,51.6,59.49999999999999
+PH-UK-1346,Salbutamol,Emergency,Ambient,4784,3724,72.12,9,Felixstowe,1.1,9.9,38.5,52.7
+PH-UK-1347,Salbutamol,Statin,Ambient,763,3901,442.48,7,Dover-Calais,1.7386158213843736,12.2,5.9,100.0
+PH-UK-1348,Salbutamol,Inhaler,Ambient,1094,3721,415.22,13,Dover-Calais,2.014994163523566,26.2,8.8,100.0
+PH-UK-1349,Amoxicillin,Statin,Ambient,1380,903,25.53,12,Dover-Calais,2.8058111088885545,33.7,45.8,100.0
+PH-UK-1350,Atorvastatin,Statin,Ambient,749,4488,280.52,12,Dover-Calais,2.9186285132437186,35.0,5.0,100.0
+PH-UK-1351,Salbutamol,Antibiotic,Ambient,4232,4066,95.66,9,Eurotunnel,2.168538108500289,19.5,31.2,96.1
+PH-UK-1352,Adrenaline,Statin,Ambient,2023,4179,94.09,6,Felixstowe,1.1,6.6,14.5,90.8
+PH-UK-1353,Amoxicillin,Emergency,Cold Chain,2780,921,435.24,10,Dover-Calais,1.7099725558569183,17.1,90.6,0.0
+PH-UK-1354,Salbutamol,Emergency,Cold Chain,4214,2867,396.06,7,Heathrow Air,1.1,7.7,44.1,34.9
+PH-UK-1355,Salbutamol,Emergency,Ambient,945,3863,36.02,10,Eurotunnel,2.597339557607845,26.0,7.3,100.0
+PH-UK-1356,Adrenaline,Oncology,Cold Chain,1333,2957,89.59,9,Dover-Calais,2.887640645254887,26.0,13.5,100.0
+PH-UK-1357,Adrenaline,Biologic,Ambient,1542,1335,230.86,14,Felixstowe,1.1,15.4,34.7,76.8
+PH-UK-1358,Insulin,Statin,Cold Chain,3569,1651,487.09,7,Dover-Calais,1.7182664557545522,12.0,64.9,6.199999999999989
+PH-UK-1359,Salbutamol,Oncology,Cold Chain,548,1155,180.96,6,Dover-Calais,2.6308401598578404,15.8,14.2,100.0
+PH-UK-1360,Amoxicillin,Oncology,Ambient,2497,1651,421.09,11,Heathrow Air,1.1,12.1,45.4,45.5
+PH-UK-1361,Adrenaline,Antibiotic,Cold Chain,2072,3959,107.39,7,Heathrow Air,1.1,7.7,15.7,91.69999999999999
+PH-UK-1362,Pembrolizumab,Antibiotic,Ambient,4830,4248,269.23,9,Dover-Calais,1.8375967972182883,16.5,34.1,81.3
+PH-UK-1363,Adrenaline,Inhaler,Cold Chain,1115,1612,314.41,5,Felixstowe,1.1,5.5,20.8,74.9
+PH-UK-1364,Atorvastatin,Antibiotic,Cold Chain,3313,1200,236.9,11,Heathrow Air,1.1,12.1,82.8,0.0
+PH-UK-1365,Amoxicillin,Emergency,Ambient,3761,2645,384.82,8,Dover-Calais,1.9409096725266295,15.5,42.7,61.099999999999994
+PH-UK-1366,Adrenaline,Oncology,Ambient,4471,3591,359.63,8,Heathrow Air,1.1,8.8,37.4,51.60000000000001
+PH-UK-1367,Adrenaline,Oncology,Cold Chain,687,3081,242.52,7,Felixstowe,1.1,7.7,6.7,100.0
+PH-UK-1368,Amoxicillin,Antibiotic,Cold Chain,1431,4017,116.63,8,Dover-Calais,1.6619991197128394,13.3,10.7,100.0
+PH-UK-1369,Salbutamol,Antibiotic,Cold Chain,2032,2635,36.89,6,Eurotunnel,2.745321674472823,16.5,23.1,100.0
+PH-UK-1370,Atorvastatin,Statin,Cold Chain,4355,1479,54.64,7,Eurotunnel,1.5058938427834718,10.5,88.3,0.0
+PH-UK-1371,Insulin,Emergency,Ambient,3014,846,46.58,11,Felixstowe,1.1,12.1,106.9,0.0
+PH-UK-1372,Salbutamol,Biologic,Cold Chain,1112,4179,244.53,10,Eurotunnel,2.6767202543644686,26.8,8.0,100.0
+PH-UK-1373,Adrenaline,Biologic,Ambient,2005,4408,96.57,8,Eurotunnel,2.634827539054379,21.1,13.6,100.0
+PH-UK-1374,Insulin,Antibiotic,Cold Chain,3948,4221,260.77,6,Dover-Calais,2.1833547694072464,13.1,28.1,83.1
+PH-UK-1375,Insulin,Statin,Ambient,3524,1235,234.05,9,Dover-Calais,2.5324986905386924,22.8,85.6,0.0
+PH-UK-1376,Adrenaline,Emergency,Cold Chain,1206,1010,233.97,6,Felixstowe,1.1,6.6,35.8,48.2
+PH-UK-1377,Atorvastatin,Statin,Ambient,4673,4399,378.7,10,Heathrow Air,1.1,11.0,31.9,69.2
+PH-UK-1378,Salbutamol,Antibiotic,Ambient,985,3518,86.79,9,Felixstowe,1.1,9.9,8.4,100.0
+PH-UK-1379,Pembrolizumab,Oncology,Cold Chain,2202,3069,293.88,7,Eurotunnel,1.7226642159999246,12.1,21.5,93.3
+PH-UK-1380,Adrenaline,Emergency,Cold Chain,4045,4100,339.41,8,Dover-Calais,1.5941144538808436,12.8,29.6,79.2
+PH-UK-1381,Salbutamol,Oncology,Ambient,1754,3459,190.46,14,Eurotunnel,2.920957568054246,40.9,15.2,100.0
+PH-UK-1382,Insulin,Antibiotic,Cold Chain,4109,2165,435.0,8,Heathrow Air,1.1,8.8,56.9,12.600000000000005
+PH-UK-1383,Pembrolizumab,Biologic,Ambient,1809,4022,66.82,5,Eurotunnel,2.6075639018129393,13.0,13.5,100.0
+PH-UK-1384,Adrenaline,Inhaler,Cold Chain,2509,4219,23.07,10,Dover-Calais,2.268474107099248,22.7,17.8,100.0
+PH-UK-1385,Salbutamol,Statin,Cold Chain,2499,2395,160.55,13,Dover-Calais,1.7987611952886104,23.4,31.3,100.0
+PH-UK-1386,Adrenaline,Antibiotic,Ambient,4420,2693,25.58,10,Dover-Calais,2.9037449899073393,29.0,49.2,88.6
+PH-UK-1387,Amoxicillin,Statin,Ambient,4184,3669,193.74,8,Heathrow Air,1.1,8.8,34.2,58.0
+PH-UK-1388,Insulin,Antibiotic,Cold Chain,4005,1035,142.26,6,Eurotunnel,2.50825853951272,15.0,116.1,0.0
+PH-UK-1389,Adrenaline,Statin,Ambient,1935,4230,30.01,5,Felixstowe,1.1,5.5,13.7,89.1
+PH-UK-1390,Amoxicillin,Statin,Ambient,2731,2361,179.7,9,Heathrow Air,1.1,9.9,34.7,60.3
+PH-UK-1391,Adrenaline,Biologic,Ambient,3591,3893,112.27,14,Felixstowe,1.1,15.4,27.7,90.80000000000001
+PH-UK-1392,Salbutamol,Inhaler,Ambient,2768,933,399.59,7,Dover-Calais,2.3511436189244237,16.5,89.0,0.0
+PH-UK-1393,Atorvastatin,Biologic,Cold Chain,3720,1479,378.29,5,Dover-Calais,2.5665118323633225,12.8,75.5,0.0
+PH-UK-1394,Atorvastatin,Oncology,Cold Chain,3136,3595,387.47,13,Eurotunnel,2.828956234498632,36.8,26.2,100.0
+PH-UK-1395,Insulin,Antibiotic,Ambient,2049,3948,393.97,5,Dover-Calais,2.2233033379016107,11.1,15.6,100.0
+PH-UK-1396,Salbutamol,Inhaler,Cold Chain,3145,2236,209.64,11,Felixstowe,1.1,12.1,42.2,51.89999999999999
+PH-UK-1397,Pembrolizumab,Oncology,Cold Chain,4838,3786,396.9,11,Dover-Calais,1.5070804334974794,16.6,38.3,73.20000000000002
+PH-UK-1398,Adrenaline,Statin,Cold Chain,859,2459,335.01,9,Dover-Calais,2.1190773577070714,19.1,10.5,100.0
+PH-UK-1399,Insulin,Emergency,Ambient,2886,3901,334.22,14,Felixstowe,1.1,15.4,22.2,100.0
+PH-UK-1400,Insulin,Statin,Ambient,1137,3106,24.07,10,Eurotunnel,1.9930609215605293,19.9,11.0,100.0
+PH-UK-1401,Atorvastatin,Statin,Ambient,4970,2973,466.42,9,Dover-Calais,1.898418404679512,17.1,50.2,50.9
+PH-UK-1402,Salbutamol,Biologic,Ambient,1983,1339,169.91,12,Heathrow Air,1.1,13.2,44.4,50.8
+PH-UK-1403,Pembrolizumab,Biologic,Ambient,4787,4086,82.15,9,Dover-Calais,1.8368061393108235,16.5,35.1,79.3
+PH-UK-1404,Pembrolizumab,Antibiotic,Ambient,3098,1226,74.5,11,Felixstowe,1.1,12.1,75.8,0.0
+PH-UK-1405,Adrenaline,Biologic,Ambient,581,3632,205.37,13,Eurotunnel,1.7780391766500285,23.1,4.8,100.0
+PH-UK-1406,Pembrolizumab,Inhaler,Ambient,825,1700,54.94,14,Dover-Calais,1.9950143763100487,27.9,14.6,100.0
+PH-UK-1407,Adrenaline,Emergency,Cold Chain,1793,4151,465.98,5,Felixstowe,1.1,5.5,13.0,90.5
+PH-UK-1408,Pembrolizumab,Emergency,Ambient,4117,2966,109.2,5,Dover-Calais,2.743248803121903,13.7,41.6,57.89999999999999
+PH-UK-1409,Adrenaline,Antibiotic,Ambient,3380,2637,166.15,13,Dover-Calais,2.5092963709114007,32.6,38.5,100.0
+PH-UK-1410,Salbutamol,Oncology,Cold Chain,4815,1416,440.04,10,Dover-Calais,2.5983272497147754,26.0,102.0,0.0
+PH-UK-1411,Pembrolizumab,Statin,Ambient,837,3081,472.73,13,Eurotunnel,2.7495487952115383,35.7,8.1,100.0
+PH-UK-1412,Atorvastatin,Antibiotic,Ambient,1089,4086,416.86,6,Eurotunnel,1.5538989318497902,9.3,8.0,100.0
+PH-UK-1413,Salbutamol,Emergency,Ambient,3958,1188,275.25,11,Dover-Calais,2.708015472288941,29.8,99.9,0.0
+PH-UK-1414,Insulin,Statin,Ambient,1585,1443,117.28,11,Dover-Calais,1.9788720839623672,21.8,33.0,99.4
+PH-UK-1415,Pembrolizumab,Oncology,Ambient,4840,1358,27.22,6,Eurotunnel,2.9141911937079357,17.5,106.9,0.0
+PH-UK-1416,Atorvastatin,Inhaler,Ambient,4557,4277,466.82,9,Eurotunnel,2.7099605708791636,24.4,32.0,100.0
+PH-UK-1417,Pembrolizumab,Statin,Cold Chain,1368,2992,369.2,6,Eurotunnel,2.6900258080979684,16.1,13.7,100.0
+PH-UK-1418,Insulin,Emergency,Cold Chain,1808,2021,193.38,9,Felixstowe,1.1,9.9,26.8,76.1
+PH-UK-1419,Amoxicillin,Biologic,Ambient,890,1557,257.46,14,Eurotunnel,1.6264269782860423,22.8,17.1,100.0
+PH-UK-1420,Atorvastatin,Statin,Cold Chain,1899,4149,476.46,13,Eurotunnel,2.0376474614528775,26.5,13.7,100.0
+PH-UK-1421,Atorvastatin,Statin,Ambient,3927,1330,92.16,13,Dover-Calais,1.6740378520123236,21.8,88.6,0.0
+PH-UK-1422,Salbutamol,Emergency,Cold Chain,3611,1174,315.52,11,Eurotunnel,2.646474825701661,29.1,92.3,2.700000000000017
+PH-UK-1423,Adrenaline,Statin,Ambient,4977,3158,73.78,12,Eurotunnel,2.758014277515314,33.1,47.3,100.0
+PH-UK-1424,Pembrolizumab,Antibiotic,Cold Chain,4659,3610,286.03,11,Dover-Calais,2.2024416329689025,24.2,38.7,95.19999999999999
+PH-UK-1425,Atorvastatin,Inhaler,Cold Chain,4846,3226,11.68,7,Heathrow Air,1.1,7.7,45.1,32.9
+PH-UK-1426,Amoxicillin,Emergency,Cold Chain,1785,1512,153.22,10,Felixstowe,1.1,11.0,35.4,62.2
+PH-UK-1427,Amoxicillin,Oncology,Ambient,831,3822,459.36,9,Heathrow Air,1.1,9.9,6.5,100.0
+PH-UK-1428,Adrenaline,Emergency,Ambient,1569,2766,70.73,6,Dover-Calais,2.5027602543229768,15.0,17.0,100.0
+PH-UK-1429,Atorvastatin,Biologic,Ambient,3892,3196,383.0,9,Eurotunnel,2.516601644769456,22.6,36.5,94.80000000000001
+PH-UK-1430,Atorvastatin,Oncology,Ambient,4247,3953,14.9,5,Eurotunnel,1.663286018500728,8.3,32.2,60.5
+PH-UK-1431,Atorvastatin,Inhaler,Cold Chain,3064,3824,414.51,10,Dover-Calais,1.6036558673299397,16.0,24.0,100.0
+PH-UK-1432,Amoxicillin,Emergency,Ambient,1165,3662,493.71,14,Heathrow Air,1.1,15.4,9.5,100.0
+PH-UK-1433,Pembrolizumab,Inhaler,Ambient,2159,2352,403.0,14,Eurotunnel,2.031900565423841,28.4,27.5,100.0
+PH-UK-1434,Pembrolizumab,Antibiotic,Ambient,728,1553,254.3,14,Eurotunnel,1.8213747658661255,25.5,14.1,100.0
+PH-UK-1435,Pembrolizumab,Biologic,Cold Chain,4172,4492,298.59,6,Felixstowe,1.1,6.6,27.9,64.0
+PH-UK-1436,Adrenaline,Emergency,Cold Chain,2811,1416,480.5,12,Eurotunnel,1.9518806550476033,23.4,59.6,50.999999999999986
+PH-UK-1437,Adrenaline,Antibiotic,Ambient,2632,4048,376.54,9,Eurotunnel,2.9075498693702357,26.2,19.5,100.0
+PH-UK-1438,Salbutamol,Oncology,Ambient,1009,2475,480.04,11,Eurotunnel,2.3658795574637113,26.0,12.2,100.0
+PH-UK-1439,Amoxicillin,Emergency,Cold Chain,1411,3782,153.24,8,Felixstowe,1.1,8.8,11.2,100.0
+PH-UK-1440,Atorvastatin,Inhaler,Ambient,815,2303,219.63,6,Eurotunnel,2.6088908273432816,15.7,10.6,100.0
+PH-UK-1441,Atorvastatin,Antibiotic,Cold Chain,4141,2371,118.23,7,Dover-Calais,2.7356293079889435,19.1,52.4,52.50000000000001
+PH-UK-1442,Salbutamol,Antibiotic,Ambient,2380,1455,24.07,10,Eurotunnel,2.7812716977320524,27.8,49.1,85.2
+PH-UK-1443,Amoxicillin,Antibiotic,Cold Chain,1380,3564,299.89,5,Eurotunnel,1.8176459738084643,9.1,11.6,100.0
+PH-UK-1444,Amoxicillin,Emergency,Cold Chain,1617,1172,21.87,10,Heathrow Air,1.1,11.0,41.4,50.2
+PH-UK-1445,Adrenaline,Inhaler,Cold Chain,3264,3377,345.53,7,Dover-Calais,1.5620329599082097,10.9,29.0,74.7
+PH-UK-1446,Salbutamol,Biologic,Cold Chain,2288,3575,450.97,12,Eurotunnel,2.7390207777188342,32.9,19.2,100.0
+PH-UK-1447,Salbutamol,Statin,Ambient,4827,3000,176.24,14,Felixstowe,1.1,15.4,48.3,49.60000000000001
+PH-UK-1448,Amoxicillin,Oncology,Cold Chain,3990,3872,53.53,11,Felixstowe,1.1,12.1,30.9,74.5
+PH-UK-1449,Insulin,Emergency,Cold Chain,3552,2020,244.51,12,Eurotunnel,2.4782112851248828,29.7,52.8,83.5
+PH-UK-1450,Atorvastatin,Statin,Cold Chain,500,3646,119.13,8,Dover-Calais,2.228252459326738,17.8,4.1,100.0
+PH-UK-1451,Insulin,Emergency,Ambient,4655,3609,378.31,14,Eurotunnel,1.8894616647439646,26.5,38.7,100.0
+PH-UK-1452,Amoxicillin,Biologic,Cold Chain,2099,3846,49.56,9,Dover-Calais,1.767020842489564,15.9,16.4,100.0
+PH-UK-1453,Salbutamol,Emergency,Cold Chain,834,1867,19.54,11,Felixstowe,1.1,12.1,13.4,100.0
+PH-UK-1454,Salbutamol,Biologic,Ambient,982,3299,473.08,13,Dover-Calais,2.2825297412218815,29.7,8.9,100.0
+PH-UK-1455,Adrenaline,Biologic,Ambient,4603,4011,175.05,10,Eurotunnel,1.7941312149200157,17.9,34.4,84.9
+PH-UK-1456,Pembrolizumab,Statin,Cold Chain,4776,2988,413.45,13,Felixstowe,1.1,14.3,48.0,46.900000000000006
+PH-UK-1457,Salbutamol,Biologic,Ambient,3917,4274,227.54,12,Dover-Calais,1.963332252575131,23.6,27.5,100.0
+PH-UK-1458,Atorvastatin,Antibiotic,Ambient,2927,1542,304.72,10,Heathrow Air,1.1,11.0,56.9,19.200000000000003
+PH-UK-1459,Amoxicillin,Oncology,Cold Chain,894,3658,478.01,12,Dover-Calais,1.5805740718307253,19.0,7.3,100.0
+PH-UK-1460,Salbutamol,Antibiotic,Ambient,4552,2351,437.18,7,Eurotunnel,2.608298121219741,18.3,58.1,38.7
+PH-UK-1461,Atorvastatin,Biologic,Ambient,753,1224,476.0,9,Dover-Calais,2.621217571032681,23.6,18.5,100.0
+PH-UK-1462,Atorvastatin,Emergency,Cold Chain,509,1588,404.88,5,Dover-Calais,2.672141577905429,13.4,9.6,100.0
+PH-UK-1463,Amoxicillin,Inhaler,Cold Chain,4800,2567,428.97,6,Eurotunnel,1.666510396695133,10.0,56.1,17.799999999999997
+PH-UK-1464,Adrenaline,Emergency,Cold Chain,1150,1963,173.3,7,Felixstowe,1.1,7.7,17.6,87.9
+PH-UK-1465,Pembrolizumab,Biologic,Cold Chain,4198,3631,135.22,14,Eurotunnel,1.6300153110418232,22.8,34.7,99.0
+PH-UK-1466,Insulin,Biologic,Cold Chain,1680,1038,121.55,6,Felixstowe,1.1,6.6,48.6,22.599999999999994
+PH-UK-1467,Salbutamol,Statin,Ambient,4030,2967,16.87,11,Dover-Calais,2.9310525408350765,32.2,40.7,100.0
+PH-UK-1468,Amoxicillin,Biologic,Cold Chain,4093,2092,126.13,5,Dover-Calais,2.922620938396939,14.6,58.7,26.39999999999999
+PH-UK-1469,Amoxicillin,Statin,Ambient,1253,2290,339.29,12,Dover-Calais,2.843810494873104,34.1,16.4,100.0
+PH-UK-1470,Amoxicillin,Emergency,Ambient,3340,4200,62.05,9,Dover-Calais,2.3769607560005137,21.4,23.9,100.0
+PH-UK-1471,Salbutamol,Statin,Cold Chain,4979,4038,393.61,12,Felixstowe,1.1,13.2,37.0,65.6
+PH-UK-1472,Insulin,Oncology,Ambient,3540,3816,234.56,6,Dover-Calais,2.5261981793404686,15.2,27.8,90.0
+PH-UK-1473,Pembrolizumab,Emergency,Ambient,1609,3683,388.47,11,Dover-Calais,1.9735900771089971,21.7,13.1,100.0
+PH-UK-1474,Amoxicillin,Emergency,Ambient,2810,3123,376.9,11,Felixstowe,1.1,12.1,27.0,82.3
+PH-UK-1475,Pembrolizumab,Emergency,Cold Chain,2628,1053,284.74,8,Eurotunnel,2.1636487273213687,17.3,74.9,2.0999999999999943
+PH-UK-1476,Salbutamol,Oncology,Cold Chain,1989,3295,222.21,11,Dover-Calais,2.704978559601231,29.8,18.1,100.0
+PH-UK-1477,Insulin,Oncology,Ambient,4977,3983,240.0,5,Eurotunnel,1.8736307119928737,9.4,37.5,53.2
+PH-UK-1478,Insulin,Statin,Cold Chain,4930,3827,379.58,12,Eurotunnel,2.6331940079824427,31.6,38.6,100.0
+PH-UK-1479,Insulin,Antibiotic,Ambient,3947,3611,291.5,6,Dover-Calais,2.347067000402043,14.1,32.8,76.7
+PH-UK-1480,Pembrolizumab,Inhaler,Cold Chain,1020,3763,481.23,10,Dover-Calais,2.0285533415166097,20.3,8.1,100.0
+PH-UK-1481,Amoxicillin,Inhaler,Ambient,4806,2698,47.61,7,Dover-Calais,1.9698350025766043,13.8,53.4,34.60000000000001
+PH-UK-1482,Salbutamol,Inhaler,Cold Chain,2864,3625,318.46,14,Felixstowe,1.1,15.4,23.7,98.80000000000001
+PH-UK-1483,Salbutamol,Statin,Cold Chain,4245,1915,33.02,12,Dover-Calais,2.2583880427130536,27.1,66.5,48.30000000000001
+PH-UK-1484,Insulin,Inhaler,Cold Chain,2142,1450,399.31,14,Felixstowe,1.1,15.4,44.3,57.60000000000001
+PH-UK-1485,Insulin,Antibiotic,Cold Chain,3935,4092,466.38,7,Felixstowe,1.1,7.7,28.8,65.5
+PH-UK-1486,Adrenaline,Statin,Ambient,4101,4393,362.16,10,Dover-Calais,2.787807017964246,27.9,28.0,100.0
+PH-UK-1487,Pembrolizumab,Antibiotic,Cold Chain,3860,2039,498.26,14,Felixstowe,1.1,15.4,56.8,32.60000000000001
+PH-UK-1488,Insulin,Oncology,Ambient,1874,2786,292.16,9,Dover-Calais,2.301206673496987,20.7,20.2,100.0
+PH-UK-1489,Atorvastatin,Oncology,Ambient,4820,2582,243.24,11,Eurotunnel,2.787161423749911,30.7,56.0,80.1
+PH-UK-1490,Insulin,Statin,Ambient,1566,3393,18.62,5,Dover-Calais,2.7290241111511353,13.6,13.8,100.0
+PH-UK-1491,Atorvastatin,Inhaler,Cold Chain,1268,1522,190.37,6,Dover-Calais,2.5723650902324016,15.4,25.0,96.2
+PH-UK-1492,Pembrolizumab,Inhaler,Cold Chain,3499,1582,39.06,12,Eurotunnel,2.405675046612669,28.9,66.4,53.89999999999998
+PH-UK-1493,Pembrolizumab,Emergency,Ambient,4332,4392,331.34,7,Felixstowe,1.1,7.7,29.6,63.9
+PH-UK-1494,Pembrolizumab,Emergency,Cold Chain,1072,2848,131.9,9,Felixstowe,1.1,9.9,11.3,100.0
+PH-UK-1495,Amoxicillin,Oncology,Cold Chain,2100,4336,347.37,8,Dover-Calais,1.7960501124380106,14.4,14.5,100.0
+PH-UK-1496,Salbutamol,Biologic,Ambient,4095,823,341.66,5,Dover-Calais,1.5944746699799448,8.0,149.3,0.0
+PH-UK-1497,Adrenaline,Inhaler,Ambient,1155,1230,411.88,12,Dover-Calais,2.4797987635633225,29.8,28.2,100.0
+PH-UK-1498,Amoxicillin,Statin,Ambient,1555,932,166.66,11,Felixstowe,1.1,12.1,50.1,36.099999999999994
+PH-UK-1499,Atorvastatin,Antibiotic,Ambient,4046,3249,234.45,12,Dover-Calais,2.744479808992305,32.9,37.4,100.0
+PH-UK-1500,Adrenaline,Biologic,Ambient,2040,3440,212.39,5,Eurotunnel,1.8724237478322519,9.4,17.8,92.60000000000001
+PH-UK-1501,Amoxicillin,Oncology,Cold Chain,4126,4013,249.0,7,Heathrow Air,1.1,7.7,30.8,61.5
+PH-UK-1502,Insulin,Biologic,Ambient,1966,1258,427.26,8,Heathrow Air,1.1,8.8,46.9,32.60000000000001
+PH-UK-1503,Adrenaline,Emergency,Cold Chain,2252,2512,217.83,10,Felixstowe,1.1,11.0,26.9,79.2
+PH-UK-1504,Pembrolizumab,Inhaler,Cold Chain,2185,4352,453.66,14,Felixstowe,1.1,15.4,15.1,100.0
+PH-UK-1505,Adrenaline,Statin,Ambient,2446,3095,31.66,9,Felixstowe,1.1,9.9,23.7,82.30000000000001
+PH-UK-1506,Amoxicillin,Emergency,Cold Chain,1286,4495,162.19,6,Dover-Calais,2.956775290646557,17.7,8.6,100.0
+PH-UK-1507,Pembrolizumab,Oncology,Cold Chain,3787,1067,264.24,11,Dover-Calais,1.8893194627557799,20.8,106.5,0.0
+PH-UK-1508,Atorvastatin,Antibiotic,Cold Chain,4849,1802,77.22,13,Dover-Calais,1.546974030132839,20.1,80.7,0.0
+PH-UK-1509,Atorvastatin,Biologic,Ambient,2537,2527,326.26,6,Felixstowe,1.1,6.6,30.1,59.599999999999994
+PH-UK-1510,Amoxicillin,Emergency,Cold Chain,988,3414,475.01,5,Dover-Calais,2.978202712639299,14.9,8.7,100.0
+PH-UK-1511,Adrenaline,Emergency,Cold Chain,2029,1852,184.42,6,Dover-Calais,1.945451769530568,11.7,32.9,69.3
+PH-UK-1512,Pembrolizumab,Emergency,Ambient,4904,3818,143.42,6,Dover-Calais,2.293324538927096,13.8,38.5,64.4
+PH-UK-1513,Salbutamol,Oncology,Ambient,4356,1780,344.37,5,Felixstowe,1.1,5.5,73.4,0.0
+PH-UK-1514,Amoxicillin,Emergency,Cold Chain,4879,2010,399.68,12,Eurotunnel,2.6593369927901005,31.9,72.8,50.099999999999994
+PH-UK-1515,Pembrolizumab,Antibiotic,Cold Chain,2976,2155,438.73,14,Eurotunnel,2.9987719383865676,42.0,41.4,100.0
+PH-UK-1516,Salbutamol,Oncology,Ambient,3948,964,483.12,7,Dover-Calais,2.63876266492357,18.5,122.9,0.0
+PH-UK-1517,Pembrolizumab,Oncology,Cold Chain,4845,3873,264.19,10,Dover-Calais,2.642788364489091,26.4,37.5,100.0
+PH-UK-1518,Adrenaline,Statin,Cold Chain,1707,2825,91.11,11,Eurotunnel,2.5382125822266266,27.9,18.1,100.0
+PH-UK-1519,Adrenaline,Statin,Ambient,4670,4168,66.68,5,Dover-Calais,2.7474502012662763,13.7,33.6,73.89999999999999
+PH-UK-1520,Salbutamol,Oncology,Ambient,2677,3581,172.03,7,Eurotunnel,2.025616355719331,14.2,22.4,97.8
+PH-UK-1521,Atorvastatin,Statin,Cold Chain,2185,2949,255.5,6,Dover-Calais,1.7743309387949775,10.6,22.2,87.4
+PH-UK-1522,Atorvastatin,Oncology,Ambient,4913,1012,47.64,10,Felixstowe,1.1,11.0,145.6,0.0
+PH-UK-1523,Pembrolizumab,Emergency,Ambient,3154,3791,262.77,11,Eurotunnel,2.280474488392233,25.1,25.0,100.0
+PH-UK-1524,Pembrolizumab,Oncology,Ambient,4118,1642,140.59,12,Dover-Calais,1.648143256275949,19.8,75.2,9.0
+PH-UK-1525,Amoxicillin,Inhaler,Ambient,2597,2625,92.92,6,Eurotunnel,2.9611682899369383,17.8,29.7,94.0
+PH-UK-1526,Adrenaline,Biologic,Ambient,3937,3086,201.11,11,Felixstowe,1.1,12.1,38.3,59.7
+PH-UK-1527,Amoxicillin,Emergency,Cold Chain,750,2540,148.69,13,Eurotunnel,1.9000938681484492,24.7,8.9,100.0
+PH-UK-1528,Atorvastatin,Biologic,Ambient,3297,4135,266.47,12,Felixstowe,1.1,13.2,23.9,91.8
+PH-UK-1529,Insulin,Inhaler,Cold Chain,906,1837,264.94,11,Felixstowe,1.1,12.1,14.8,100.0
+PH-UK-1530,Adrenaline,Statin,Cold Chain,1661,3195,119.83,5,Eurotunnel,1.645922625427853,8.2,15.6,93.39999999999999
+PH-UK-1531,Insulin,Biologic,Ambient,1659,4134,434.99,11,Dover-Calais,2.3309790734213642,25.6,12.0,100.0
+PH-UK-1532,Insulin,Statin,Ambient,3360,3430,383.72,14,Felixstowe,1.1,15.4,29.4,87.4
+PH-UK-1533,Atorvastatin,Antibiotic,Cold Chain,2879,2843,223.17,14,Felixstowe,1.1,15.4,30.4,85.4
+PH-UK-1534,Atorvastatin,Inhaler,Ambient,3342,1697,331.7,9,Heathrow Air,1.1,9.9,59.1,11.5
+PH-UK-1535,Adrenaline,Biologic,Cold Chain,2655,3757,425.35,6,Eurotunnel,2.6557831831964847,15.9,21.2,100.0
+PH-UK-1536,Atorvastatin,Statin,Cold Chain,501,4236,119.23,9,Eurotunnel,1.5203327971817875,13.7,3.5,100.0
+PH-UK-1537,Atorvastatin,Emergency,Cold Chain,4356,2061,183.08,14,Dover-Calais,2.8237971116998937,39.5,63.4,91.7
+PH-UK-1538,Insulin,Emergency,Cold Chain,4617,2051,402.69,14,Dover-Calais,2.55373733601341,35.8,67.5,72.39999999999999
+PH-UK-1539,Amoxicillin,Oncology,Ambient,4935,4147,448.82,13,Dover-Calais,2.9158613360232013,37.9,35.7,100.0
+PH-UK-1540,Atorvastatin,Statin,Cold Chain,690,4471,248.96,5,Dover-Calais,2.033926642312541,10.2,4.6,100.0
+PH-UK-1541,Salbutamol,Statin,Ambient,1596,965,241.45,5,Dover-Calais,2.9852663862765922,14.9,49.6,45.5
+PH-UK-1542,Salbutamol,Inhaler,Cold Chain,4639,1959,17.07,5,Dover-Calais,1.6431596985223793,8.2,71.0,0.0
+PH-UK-1543,Salbutamol,Biologic,Cold Chain,853,2351,338.03,14,Dover-Calais,2.4758039784810015,34.7,10.9,100.0
+PH-UK-1544,Pembrolizumab,Inhaler,Ambient,3472,3356,454.08,6,Eurotunnel,1.9474578872311055,11.7,31.0,73.1
+PH-UK-1545,Pembrolizumab,Biologic,Cold Chain,3345,3321,494.09,9,Eurotunnel,2.8871491005332865,26.0,30.2,100.0
+PH-UK-1546,Amoxicillin,Antibiotic,Cold Chain,3711,3435,396.36,6,Eurotunnel,1.9333354073763176,11.6,32.4,70.0
+PH-UK-1547,Pembrolizumab,Inhaler,Ambient,1278,892,349.89,5,Felixstowe,1.1,5.5,43.0,30.5
+PH-UK-1548,Adrenaline,Emergency,Cold Chain,2639,2352,426.02,9,Dover-Calais,2.609757564457631,23.5,33.7,100.0
+PH-UK-1549,Pembrolizumab,Biologic,Ambient,3956,4129,16.74,9,Eurotunnel,2.8886808424048125,26.0,28.7,100.0
+PH-UK-1550,Salbutamol,Antibiotic,Cold Chain,3758,2455,55.59,6,Eurotunnel,1.7074783255545058,10.2,45.9,38.8
+PH-UK-1551,Adrenaline,Antibiotic,Cold Chain,2659,1562,188.59,14,Heathrow Air,1.1,15.4,51.1,44.0
+PH-UK-1552,Atorvastatin,Biologic,Cold Chain,4414,3067,420.8,12,Dover-Calais,2.7736213637096205,33.3,43.2,100.0
+PH-UK-1553,Atorvastatin,Antibiotic,Cold Chain,2600,3387,109.94,14,Eurotunnel,1.6768822084790778,23.5,23.0,100.0
+PH-UK-1554,Salbutamol,Oncology,Cold Chain,2615,3598,264.74,11,Felixstowe,1.1,12.1,21.8,92.69999999999999
+PH-UK-1555,Amoxicillin,Oncology,Ambient,1309,4317,232.47,8,Eurotunnel,2.213979905500378,17.7,9.1,100.0
+PH-UK-1556,Adrenaline,Oncology,Ambient,954,1152,358.41,13,Eurotunnel,2.695878431200331,35.0,24.8,100.0
+PH-UK-1557,Adrenaline,Inhaler,Ambient,4360,3939,390.71,6,Dover-Calais,2.353654254005223,14.1,33.2,75.89999999999999
+PH-UK-1558,Amoxicillin,Antibiotic,Cold Chain,4123,1702,361.32,12,Dover-Calais,2.3218780349233863,27.9,72.7,38.29999999999998
+PH-UK-1559,Adrenaline,Statin,Ambient,1245,3038,68.12,5,Eurotunnel,2.668354794147849,13.3,12.3,100.0
+PH-UK-1560,Salbutamol,Inhaler,Ambient,2222,2963,208.19,5,Eurotunnel,2.6258145360643272,13.1,22.5,94.3
+PH-UK-1561,Insulin,Inhaler,Cold Chain,561,2080,239.58,12,Eurotunnel,2.958707411821593,35.5,8.1,100.0
+PH-UK-1562,Insulin,Emergency,Cold Chain,4032,3061,279.97,14,Heathrow Air,1.1,15.4,39.5,67.2
+PH-UK-1563,Salbutamol,Biologic,Ambient,541,3249,149.13,8,Eurotunnel,2.519909539813568,20.2,5.0,100.0
+PH-UK-1564,Insulin,Inhaler,Cold Chain,2641,4497,71.92,14,Dover-Calais,2.1254472573857566,29.8,17.6,100.0
+PH-UK-1565,Salbutamol,Oncology,Cold Chain,3211,2813,261.86,6,Felixstowe,1.1,6.6,34.2,51.39999999999999
+PH-UK-1566,Insulin,Oncology,Ambient,4573,4449,405.16,8,Heathrow Air,1.1,8.8,30.8,64.8
+PH-UK-1567,Amoxicillin,Statin,Cold Chain,3437,2812,150.92,10,Dover-Calais,2.5924682323778,25.9,36.7,100.0
+PH-UK-1568,Pembrolizumab,Biologic,Cold Chain,744,3500,303.14,7,Felixstowe,1.1,7.7,6.4,100.0
+PH-UK-1569,Amoxicillin,Emergency,Ambient,3967,4162,453.83,14,Dover-Calais,2.2843196158668473,32.0,28.6,100.0
+PH-UK-1570,Amoxicillin,Biologic,Cold Chain,2212,2194,72.31,13,Dover-Calais,1.8100921165201014,23.5,30.2,100.0
+PH-UK-1571,Insulin,Statin,Ambient,1418,1781,224.15,11,Dover-Calais,2.184377145540708,24.0,23.9,100.0
+PH-UK-1572,Adrenaline,Emergency,Ambient,735,3346,480.19,9,Dover-Calais,2.270317932714727,20.4,6.6,100.0
+PH-UK-1573,Adrenaline,Biologic,Cold Chain,4557,4353,88.16,12,Eurotunnel,1.538316078356624,18.5,31.4,92.7
+PH-UK-1574,Insulin,Emergency,Ambient,4600,1843,229.83,6,Eurotunnel,1.640733844028845,9.8,74.9,0.0
+PH-UK-1575,Salbutamol,Biologic,Cold Chain,3320,2070,336.1,8,Heathrow Air,1.1,8.8,48.1,30.2
+PH-UK-1576,Insulin,Oncology,Cold Chain,2452,2523,196.6,10,Eurotunnel,2.8472269040314493,28.5,29.2,100.0
+PH-UK-1577,Salbutamol,Statin,Cold Chain,3063,2340,474.44,7,Eurotunnel,2.1479522359097585,15.0,39.3,66.4
+PH-UK-1578,Pembrolizumab,Oncology,Cold Chain,2178,1247,59.08,13,Felixstowe,1.1,14.3,52.4,38.10000000000001
+PH-UK-1579,Amoxicillin,Antibiotic,Ambient,1230,2228,130.95,8,Dover-Calais,2.297990056908427,18.4,16.6,100.0
+PH-UK-1580,Insulin,Biologic,Cold Chain,842,834,314.92,6,Heathrow Air,1.1,6.6,30.3,59.199999999999996
+PH-UK-1581,Salbutamol,Antibiotic,Ambient,1987,3582,82.13,8,Dover-Calais,1.851391689256563,14.8,16.6,100.0
+PH-UK-1582,Salbutamol,Antibiotic,Cold Chain,4666,3837,151.83,7,Eurotunnel,1.7529353497489732,12.3,36.5,63.900000000000006
+PH-UK-1583,Salbutamol,Emergency,Ambient,4939,1710,384.37,7,Felixstowe,1.1,7.7,86.6,0.0
+PH-UK-1584,Atorvastatin,Inhaler,Ambient,1651,2942,143.24,11,Heathrow Air,1.1,12.1,16.8,100.0
+PH-UK-1585,Pembrolizumab,Emergency,Cold Chain,3221,1263,467.51,6,Dover-Calais,2.114838657886073,12.7,76.5,0.0
+PH-UK-1586,Pembrolizumab,Oncology,Ambient,2137,3179,490.98,14,Heathrow Air,1.1,15.4,20.2,100.0
+PH-UK-1587,Insulin,Biologic,Ambient,1837,2421,224.35,10,Dover-Calais,1.7758839865876137,17.8,22.8,100.0
+PH-UK-1588,Insulin,Emergency,Cold Chain,3933,1811,350.09,11,Felixstowe,1.1,12.1,65.2,5.8999999999999915
+PH-UK-1589,Amoxicillin,Statin,Cold Chain,3841,1920,433.65,12,Felixstowe,1.1,13.2,60.0,19.599999999999994
+PH-UK-1590,Salbutamol,Statin,Cold Chain,3828,831,422.31,5,Felixstowe,1.1,5.5,138.2,0.0
+PH-UK-1591,Amoxicillin,Inhaler,Cold Chain,1677,3762,497.27,11,Heathrow Air,1.1,12.1,13.4,100.0
+PH-UK-1592,Atorvastatin,Emergency,Ambient,1428,1779,157.49,13,Eurotunnel,1.7189143888560994,22.3,24.1,100.0
+PH-UK-1593,Adrenaline,Statin,Cold Chain,2038,3380,107.1,5,Eurotunnel,2.039216086150363,10.2,18.1,94.39999999999999
+PH-UK-1594,Salbutamol,Oncology,Cold Chain,744,4102,408.87,7,Heathrow Air,1.1,7.7,5.4,100.0
+PH-UK-1595,Pembrolizumab,Inhaler,Ambient,1545,3908,260.79,5,Eurotunnel,2.567114003685547,12.8,11.9,100.0
+PH-UK-1596,Adrenaline,Inhaler,Ambient,505,4017,336.49,11,Dover-Calais,1.9763929104294962,21.7,3.8,100.0
+PH-UK-1597,Insulin,Emergency,Ambient,2519,2554,176.1,13,Eurotunnel,2.0145421956073393,26.2,29.6,100.0
+PH-UK-1598,Insulin,Inhaler,Ambient,829,2043,97.75,14,Felixstowe,1.1,15.4,12.2,100.0
+PH-UK-1599,Insulin,Statin,Cold Chain,4585,2666,381.66,10,Dover-Calais,1.6244069819254985,16.2,51.6,45.39999999999999
+PH-UK-1600,Atorvastatin,Oncology,Ambient,2740,4264,126.81,10,Eurotunnel,2.6951063108708015,27.0,19.3,100.0
+PH-UK-1601,Salbutamol,Statin,Cold Chain,2609,2130,341.94,9,Dover-Calais,2.607898166000699,23.5,36.7,97.1
+PH-UK-1602,Insulin,Inhaler,Cold Chain,4514,3799,187.36,14,Dover-Calais,1.830180042846826,25.6,35.6,100.0
+PH-UK-1603,Amoxicillin,Antibiotic,Ambient,4242,2433,478.09,5,Dover-Calais,2.506088637552238,12.5,52.3,32.900000000000006
+PH-UK-1604,Amoxicillin,Inhaler,Cold Chain,866,1854,352.83,10,Felixstowe,1.1,11.0,14.0,100.0
+PH-UK-1605,Atorvastatin,Statin,Ambient,782,3998,321.24,7,Dover-Calais,2.0831822051141566,14.6,5.9,100.0
+PH-UK-1606,Pembrolizumab,Oncology,Ambient,2747,1696,456.27,14,Eurotunnel,2.013884096602257,28.2,48.6,87.39999999999999
+PH-UK-1607,Amoxicillin,Biologic,Ambient,1010,3583,275.17,11,Dover-Calais,2.1858771705052162,24.0,8.5,100.0
+PH-UK-1608,Amoxicillin,Oncology,Ambient,4520,2731,446.05,11,Felixstowe,1.1,12.1,49.7,36.89999999999999
+PH-UK-1609,Adrenaline,Emergency,Ambient,3646,3062,498.88,6,Dover-Calais,1.9646772436503255,11.8,35.7,64.0
+PH-UK-1610,Insulin,Emergency,Ambient,4752,1244,256.11,6,Eurotunnel,2.568953607165067,15.4,114.6,0.0
+PH-UK-1611,Insulin,Biologic,Ambient,1199,2600,291.46,14,Dover-Calais,2.738310818239081,38.3,13.8,100.0
+PH-UK-1612,Amoxicillin,Statin,Ambient,712,3984,136.58,5,Dover-Calais,1.5972497028306754,8.0,5.4,100.0
+PH-UK-1613,Atorvastatin,Biologic,Cold Chain,2857,2964,191.58,7,Heathrow Air,1.1,7.7,28.9,65.30000000000001
+PH-UK-1614,Amoxicillin,Oncology,Ambient,4201,1358,33.35,9,Dover-Calais,2.2573448341961,20.3,92.8,0.0
+PH-UK-1615,Salbutamol,Oncology,Ambient,1165,1372,323.26,9,Dover-Calais,2.1726514408006845,19.6,25.5,100.0
+PH-UK-1616,Atorvastatin,Emergency,Cold Chain,2644,1456,203.22,14,Heathrow Air,1.1,15.4,54.5,37.2
+PH-UK-1617,Insulin,Statin,Cold Chain,1395,3491,325.98,5,Felixstowe,1.1,5.5,12.0,92.5
+PH-UK-1618,Insulin,Antibiotic,Cold Chain,4222,2075,469.06,10,Eurotunnel,2.889572556807012,28.9,61.0,64.69999999999999
+PH-UK-1619,Salbutamol,Biologic,Ambient,2541,1322,360.95,9,Felixstowe,1.1,9.9,57.7,14.299999999999997
+PH-UK-1620,Amoxicillin,Statin,Cold Chain,2935,3242,349.61,10,Eurotunnel,2.918417316719054,29.2,27.2,100.0
+PH-UK-1621,Pembrolizumab,Inhaler,Ambient,3591,828,6.98,10,Heathrow Air,1.1,11.0,130.1,0.0
+PH-UK-1622,Amoxicillin,Statin,Ambient,4868,3480,270.05,5,Eurotunnel,1.9388463735944437,9.7,42.0,45.099999999999994
+PH-UK-1623,Insulin,Emergency,Cold Chain,3472,2658,376.09,8,Eurotunnel,1.9646163541519877,15.7,39.2,68.69999999999999
+PH-UK-1624,Adrenaline,Inhaler,Ambient,1662,2703,320.5,13,Felixstowe,1.1,14.3,18.4,100.0
+PH-UK-1625,Atorvastatin,Oncology,Cold Chain,4050,1605,7.29,11,Heathrow Air,1.1,12.1,75.7,0.0
+PH-UK-1626,Insulin,Emergency,Cold Chain,4688,817,156.89,10,Eurotunnel,1.706220481774496,17.1,172.1,0.0
+PH-UK-1627,Insulin,Biologic,Cold Chain,2216,4281,475.42,7,Dover-Calais,1.6802176772228872,11.8,15.5,100.0
+PH-UK-1628,Insulin,Emergency,Ambient,3826,3878,266.97,8,Dover-Calais,1.5131572144667536,12.1,29.6,77.1
+PH-UK-1629,Amoxicillin,Inhaler,Cold Chain,1469,4070,291.99,5,Dover-Calais,2.3375681841289904,11.7,10.8,100.0
+PH-UK-1630,Adrenaline,Statin,Ambient,3318,1381,233.98,14,Eurotunnel,2.33442016640457,32.7,72.1,53.90000000000002
+PH-UK-1631,Adrenaline,Emergency,Cold Chain,944,1962,231.49,11,Eurotunnel,1.9222228572837796,21.1,14.4,100.0
+PH-UK-1632,Atorvastatin,Inhaler,Ambient,3217,3428,246.38,13,Eurotunnel,2.7563088360701213,35.8,28.2,100.0
+PH-UK-1633,Adrenaline,Biologic,Cold Chain,2061,2135,475.31,7,Dover-Calais,2.989289860588541,20.9,29.0,100.0
+PH-UK-1634,Atorvastatin,Statin,Ambient,2370,1043,412.29,6,Felixstowe,1.1,6.6,68.2,0.0
+PH-UK-1635,Amoxicillin,Oncology,Ambient,861,3532,321.17,7,Felixstowe,1.1,7.7,7.3,100.0
+PH-UK-1636,Amoxicillin,Biologic,Cold Chain,2305,888,265.0,10,Dover-Calais,1.7605411507922506,17.6,77.9,0.0
+PH-UK-1637,Amoxicillin,Emergency,Cold Chain,3588,2350,494.99,7,Dover-Calais,1.8898500749308442,13.2,45.8,48.0
+PH-UK-1638,Adrenaline,Biologic,Cold Chain,3786,3666,190.94,14,Heathrow Air,1.1,15.4,31.0,84.2
+PH-UK-1639,Amoxicillin,Inhaler,Cold Chain,3549,2920,352.94,14,Felixstowe,1.1,15.4,36.5,73.2
+PH-UK-1640,Adrenaline,Statin,Cold Chain,3901,2068,6.08,7,Felixstowe,1.1,7.7,56.6,9.899999999999999
+PH-UK-1641,Pembrolizumab,Statin,Cold Chain,4274,3253,118.94,9,Dover-Calais,2.209695122214117,19.9,39.4,80.9
+PH-UK-1642,Salbutamol,Statin,Ambient,1272,3269,38.11,9,Dover-Calais,2.1703202492210094,19.5,11.7,100.0
+PH-UK-1643,Amoxicillin,Oncology,Ambient,1180,2315,455.99,14,Eurotunnel,1.7705251621976899,24.8,15.3,100.0
+PH-UK-1644,Salbutamol,Inhaler,Ambient,3279,4370,201.86,12,Dover-Calais,2.274620720855008,27.3,22.5,100.0
+PH-UK-1645,Insulin,Antibiotic,Cold Chain,789,1562,252.76,10,Eurotunnel,2.74078557276611,27.4,15.2,100.0
+PH-UK-1646,Adrenaline,Biologic,Ambient,2475,1407,331.55,9,Eurotunnel,2.3116894993410417,20.8,52.8,56.80000000000001
+PH-UK-1647,Atorvastatin,Biologic,Cold Chain,2629,1475,26.54,5,Eurotunnel,2.962191165884592,14.8,53.5,37.400000000000006
+PH-UK-1648,Insulin,Statin,Cold Chain,3419,1414,221.9,9,Dover-Calais,1.869088573228311,16.8,72.5,5.400000000000006
+PH-UK-1649,Atorvastatin,Statin,Cold Chain,689,4309,277.9,11,Heathrow Air,1.1,12.1,4.8,100.0
+PH-UK-1650,Amoxicillin,Statin,Ambient,4142,2525,139.95,8,Heathrow Air,1.1,8.8,49.2,27.999999999999996
+PH-UK-1651,Adrenaline,Statin,Cold Chain,2847,1441,94.62,6,Eurotunnel,2.459749496864972,14.8,59.3,25.80000000000001
+PH-UK-1652,Amoxicillin,Oncology,Cold Chain,2757,887,56.77,6,Felixstowe,1.1,6.6,93.2,0.0
+PH-UK-1653,Insulin,Statin,Cold Chain,921,2577,342.66,14,Eurotunnel,2.3545174756149416,33.0,10.7,100.0
+PH-UK-1654,Insulin,Oncology,Ambient,1914,3812,155.79,14,Heathrow Air,1.1,15.4,15.1,100.0
+PH-UK-1655,Salbutamol,Antibiotic,Ambient,3086,907,346.64,6,Heathrow Air,1.1,6.6,102.1,0.0
+PH-UK-1656,Insulin,Emergency,Cold Chain,1659,1684,441.37,6,Dover-Calais,2.1894567708960624,13.1,29.6,80.1
+PH-UK-1657,Pembrolizumab,Emergency,Ambient,2276,3736,63.01,8,Dover-Calais,2.231600444155021,17.9,18.3,100.0
+PH-UK-1658,Insulin,Biologic,Cold Chain,2549,968,437.78,14,Dover-Calais,2.9102252270383246,40.7,79.0,64.10000000000001
+PH-UK-1659,Amoxicillin,Biologic,Ambient,2323,2792,444.22,8,Eurotunnel,1.7741625334976858,14.2,25.0,92.6
+PH-UK-1660,Adrenaline,Antibiotic,Cold Chain,2196,3251,371.33,8,Dover-Calais,2.6122575140509787,20.9,20.3,100.0
+PH-UK-1661,Pembrolizumab,Statin,Cold Chain,2991,837,213.76,14,Dover-Calais,2.412195899539428,33.8,107.2,0.0
+PH-UK-1662,Amoxicillin,Biologic,Cold Chain,2167,2391,117.06,5,Dover-Calais,2.5402782086818303,12.7,27.2,83.69999999999999
+PH-UK-1663,Insulin,Oncology,Ambient,1535,2387,242.63,13,Felixstowe,1.1,14.3,19.3,100.0
+PH-UK-1664,Adrenaline,Antibiotic,Cold Chain,4506,1774,96.99,9,Felixstowe,1.1,9.9,76.2,0.0
+PH-UK-1665,Insulin,Biologic,Cold Chain,3331,2911,242.19,14,Dover-Calais,2.236465070285233,31.3,34.3,100.0
+PH-UK-1666,Pembrolizumab,Oncology,Ambient,3973,1472,396.68,13,Dover-Calais,1.945200736029434,25.3,81.0,13.900000000000006
+PH-UK-1667,Atorvastatin,Oncology,Ambient,1227,4378,415.5,6,Dover-Calais,1.5988355792862825,9.6,8.4,100.0
+PH-UK-1668,Amoxicillin,Emergency,Ambient,1917,2913,277.59,8,Eurotunnel,1.9925809743018916,15.9,19.7,100.0
+PH-UK-1669,Adrenaline,Antibiotic,Ambient,2605,1872,79.1,11,Eurotunnel,2.867689521490542,31.5,41.7,100.0
+PH-UK-1670,Insulin,Biologic,Ambient,4809,1306,282.49,12,Eurotunnel,1.922519517624688,23.1,110.5,0.0
+PH-UK-1671,Pembrolizumab,Emergency,Cold Chain,2306,1403,89.06,5,Eurotunnel,1.5881990463338476,7.9,49.3,25.10000000000001
+PH-UK-1672,Insulin,Statin,Cold Chain,687,3856,355.84,7,Dover-Calais,2.19185133941146,15.3,5.3,100.0
+PH-UK-1673,Atorvastatin,Antibiotic,Ambient,3559,878,54.94,12,Felixstowe,1.1,13.2,121.6,0.0
+PH-UK-1674,Insulin,Antibiotic,Cold Chain,2885,2637,154.61,10,Felixstowe,1.1,11.0,32.8,67.4
+PH-UK-1675,Insulin,Inhaler,Cold Chain,4318,984,320.03,8,Dover-Calais,2.485596953556864,19.9,131.6,0.0
+PH-UK-1676,Pembrolizumab,Biologic,Cold Chain,1933,4443,292.0,9,Dover-Calais,2.0477142961598753,18.4,13.1,100.0
+PH-UK-1677,Salbutamol,Oncology,Cold Chain,2066,1404,264.98,5,Dover-Calais,1.6541163165725603,8.3,44.1,36.7
+PH-UK-1678,Pembrolizumab,Antibiotic,Ambient,3153,2640,387.05,12,Eurotunnel,1.9687923994900363,23.6,35.8,99.20000000000002
+PH-UK-1679,Adrenaline,Emergency,Cold Chain,4689,3681,426.37,13,Dover-Calais,2.6293306834620163,34.2,38.2,100.0
+PH-UK-1680,Insulin,Statin,Ambient,2491,2887,488.67,6,Eurotunnel,1.7569078886718905,10.5,25.9,79.7
+PH-UK-1681,Amoxicillin,Antibiotic,Cold Chain,1201,809,403.22,12,Eurotunnel,2.5424420096962006,30.5,44.5,100.0
+PH-UK-1682,Salbutamol,Biologic,Cold Chain,4910,1713,68.5,8,Dover-Calais,1.7119441358700342,13.7,86.0,0.0
+PH-UK-1683,Insulin,Emergency,Cold Chain,1388,3132,39.8,11,Dover-Calais,1.812678381601795,19.9,13.3,100.0
+PH-UK-1684,Insulin,Emergency,Ambient,4496,2640,233.98,6,Felixstowe,1.1,6.6,51.1,17.599999999999994
+PH-UK-1685,Atorvastatin,Emergency,Cold Chain,948,2273,116.32,7,Felixstowe,1.1,7.7,12.5,98.1
+PH-UK-1686,Adrenaline,Emergency,Ambient,4102,1667,64.86,10,Dover-Calais,2.1749778154940915,21.7,73.8,17.5
+PH-UK-1687,Pembrolizumab,Antibiotic,Ambient,820,1726,437.92,8,Dover-Calais,2.2458789106564367,18.0,14.3,100.0
+PH-UK-1688,Pembrolizumab,Statin,Cold Chain,4935,1509,310.42,14,Dover-Calais,2.6262961563340705,36.8,98.1,14.200000000000003
+PH-UK-1689,Adrenaline,Statin,Cold Chain,1050,3065,418.13,5,Felixstowe,1.1,5.5,10.3,95.9
+PH-UK-1690,Atorvastatin,Oncology,Cold Chain,2356,3269,238.16,11,Dover-Calais,2.454210025359448,27.0,21.6,100.0
+PH-UK-1691,Atorvastatin,Oncology,Cold Chain,585,2223,286.73,5,Dover-Calais,2.792043048524438,14.0,7.9,100.0
+PH-UK-1692,Atorvastatin,Oncology,Cold Chain,3945,3769,404.19,5,Eurotunnel,2.1780357757216513,10.9,31.4,69.9
+PH-UK-1693,Adrenaline,Statin,Cold Chain,1786,1601,104.69,11,Eurotunnel,1.5652980717813454,17.2,33.5,84.6
+PH-UK-1694,Salbutamol,Biologic,Cold Chain,3963,4430,398.22,14,Dover-Calais,2.996886711994904,42.0,26.8,100.0
+PH-UK-1695,Atorvastatin,Oncology,Cold Chain,1706,2256,199.84,11,Felixstowe,1.1,12.1,22.7,90.9
+PH-UK-1696,Insulin,Oncology,Cold Chain,2407,2088,253.94,6,Dover-Calais,1.8759793847904749,11.3,34.6,64.7
+PH-UK-1697,Adrenaline,Antibiotic,Ambient,1934,1809,463.39,6,Felixstowe,1.1,6.6,32.1,55.599999999999994
+PH-UK-1698,Insulin,Statin,Cold Chain,3747,3588,6.75,11,Eurotunnel,2.872456901118671,31.6,31.3,100.0
+PH-UK-1699,Adrenaline,Biologic,Ambient,4263,2430,125.79,7,Eurotunnel,2.3676919364949747,16.6,52.6,44.6
+PH-UK-1700,Adrenaline,Oncology,Ambient,853,1910,376.48,6,Dover-Calais,2.5447339492138994,15.3,13.4,100.0
+PH-UK-1701,Insulin,Oncology,Ambient,3551,3460,332.42,6,Dover-Calais,1.6148647300927814,9.7,30.8,67.5
+PH-UK-1702,Amoxicillin,Inhaler,Cold Chain,4127,4240,375.56,5,Heathrow Air,1.1,5.5,29.2,58.1
+PH-UK-1703,Insulin,Statin,Cold Chain,4704,3393,69.83,13,Dover-Calais,1.6411725537163513,21.3,41.6,80.7
+PH-UK-1704,Amoxicillin,Inhaler,Ambient,676,2612,154.51,8,Felixstowe,1.1,8.8,7.8,100.0
+PH-UK-1705,Amoxicillin,Statin,Ambient,4214,3153,485.83,12,Eurotunnel,1.891190078471769,22.7,40.1,87.89999999999999
+PH-UK-1706,Adrenaline,Antibiotic,Ambient,3806,3952,372.55,7,Dover-Calais,1.8632875815985435,13.0,28.9,81.2
+PH-UK-1707,Insulin,Biologic,Ambient,3689,1094,361.48,14,Dover-Calais,1.5904997906514995,22.3,101.2,0.0
+PH-UK-1708,Pembrolizumab,Oncology,Ambient,4511,1744,6.57,5,Felixstowe,1.1,5.5,77.6,0.0
+PH-UK-1709,Pembrolizumab,Inhaler,Ambient,855,3624,366.54,8,Eurotunnel,2.863389818600624,22.9,7.1,100.0
+PH-UK-1710,Salbutamol,Antibiotic,Ambient,2790,4210,355.84,10,Eurotunnel,2.1330942766996426,21.3,19.9,100.0
+PH-UK-1711,Adrenaline,Oncology,Cold Chain,3013,1263,27.87,9,Dover-Calais,1.6624619044757085,15.0,71.6,1.8000000000000114
+PH-UK-1712,Salbutamol,Inhaler,Ambient,1054,4431,386.6,10,Dover-Calais,2.576787622701096,25.8,7.1,100.0
+PH-UK-1713,Atorvastatin,Inhaler,Cold Chain,1982,1603,47.34,10,Eurotunnel,2.276972290483884,22.8,37.1,94.2
+PH-UK-1714,Amoxicillin,Biologic,Cold Chain,1160,2511,148.85,10,Felixstowe,1.1,11.0,13.9,100.0
+PH-UK-1715,Atorvastatin,Inhaler,Ambient,3506,2699,109.79,8,Dover-Calais,2.500009867631122,20.0,39.0,82.0
+PH-UK-1716,Pembrolizumab,Inhaler,Cold Chain,4082,2085,231.09,9,Dover-Calais,1.768059902379441,15.9,58.7,30.299999999999997
+PH-UK-1717,Amoxicillin,Oncology,Ambient,3894,1803,117.37,13,Dover-Calais,2.725668565098609,35.4,64.8,76.6
+PH-UK-1718,Amoxicillin,Antibiotic,Cold Chain,3044,4291,350.83,7,Felixstowe,1.1,7.7,21.3,80.5
+PH-UK-1719,Atorvastatin,Biologic,Ambient,2874,3249,488.39,5,Dover-Calais,2.518588626594445,12.6,26.5,84.8
+PH-UK-1720,Atorvastatin,Oncology,Ambient,4790,1835,260.24,10,Eurotunnel,2.8808928758130055,28.8,78.3,29.80000000000001
+PH-UK-1721,Insulin,Oncology,Ambient,535,1810,86.84,5,Felixstowe,1.1,5.5,8.9,98.7
+PH-UK-1722,Insulin,Statin,Cold Chain,4343,1726,460.21,6,Felixstowe,1.1,6.6,75.5,0.0
+PH-UK-1723,Insulin,Statin,Cold Chain,2570,4332,241.93,9,Eurotunnel,2.643891088829874,23.8,17.8,100.0
+PH-UK-1724,Amoxicillin,Biologic,Cold Chain,1774,807,342.18,12,Eurotunnel,1.748293773152992,21.0,65.9,31.19999999999999
+PH-UK-1725,Adrenaline,Emergency,Ambient,1952,4375,300.47,13,Eurotunnel,2.237255066819551,29.1,13.4,100.0
+PH-UK-1726,Adrenaline,Biologic,Ambient,4527,3382,481.96,6,Heathrow Air,1.1,6.6,40.2,39.39999999999999
+PH-UK-1727,Pembrolizumab,Statin,Ambient,1189,922,376.79,14,Dover-Calais,2.7729342585515417,38.8,38.7,100.0
+PH-UK-1728,Insulin,Oncology,Ambient,1281,1764,427.54,11,Felixstowe,1.1,12.1,21.8,92.69999999999999
+PH-UK-1729,Insulin,Biologic,Ambient,3699,2565,156.52,7,Dover-Calais,2.2547819911131475,15.8,43.3,60.80000000000001
+PH-UK-1730,Insulin,Emergency,Cold Chain,1402,3117,20.34,8,Eurotunnel,1.9779899237426837,15.8,13.5,100.0
+PH-UK-1731,Atorvastatin,Emergency,Ambient,3842,3123,325.88,13,Dover-Calais,1.6219393737040433,21.1,36.9,89.5
+PH-UK-1732,Salbutamol,Oncology,Cold Chain,2445,2315,111.3,14,Heathrow Air,1.1,15.4,31.7,82.80000000000001
+PH-UK-1733,Pembrolizumab,Antibiotic,Cold Chain,2490,4441,476.93,7,Felixstowe,1.1,7.7,16.8,89.5
+PH-UK-1734,Pembrolizumab,Antibiotic,Ambient,4679,3107,171.47,12,Eurotunnel,1.9045374481701,22.9,45.2,78.29999999999998
+PH-UK-1735,Atorvastatin,Biologic,Cold Chain,2369,3995,136.64,11,Eurotunnel,1.879544170946001,20.7,17.8,100.0
+PH-UK-1736,Amoxicillin,Inhaler,Cold Chain,3666,2526,238.31,7,Dover-Calais,2.9719406180445187,20.8,43.5,75.4
+PH-UK-1737,Insulin,Oncology,Cold Chain,2315,1191,332.35,12,Dover-Calais,2.0346821990526287,24.4,58.3,56.599999999999994
+PH-UK-1738,Adrenaline,Antibiotic,Ambient,2525,2514,64.34,14,Dover-Calais,1.8739611609761546,26.2,30.1,100.0
+PH-UK-1739,Salbutamol,Emergency,Ambient,4005,4112,257.21,12,Dover-Calais,2.713663438563726,32.6,29.2,100.0
+PH-UK-1740,Insulin,Inhaler,Ambient,2638,3411,389.52,5,Eurotunnel,2.7505517353339695,13.8,23.2,95.0
+PH-UK-1741,Insulin,Antibiotic,Cold Chain,1042,4102,164.93,13,Dover-Calais,1.6170883551122468,21.0,7.6,100.0
+PH-UK-1742,Insulin,Emergency,Cold Chain,3856,1039,222.8,10,Heathrow Air,1.1,11.0,111.3,0.0
+PH-UK-1743,Adrenaline,Biologic,Ambient,3589,3100,104.67,12,Heathrow Air,1.1,13.2,34.7,70.19999999999999
+PH-UK-1744,Salbutamol,Inhaler,Ambient,4753,3545,172.72,6,Dover-Calais,2.4369132713551283,14.6,40.2,63.39999999999999
+PH-UK-1745,Adrenaline,Inhaler,Cold Chain,2746,1028,111.69,12,Dover-Calais,2.4047848635040445,28.9,80.1,26.5
+PH-UK-1746,Salbutamol,Emergency,Cold Chain,3645,4334,83.55,11,Eurotunnel,2.9297231021097154,32.2,25.2,100.0
+PH-UK-1747,Salbutamol,Statin,Ambient,4254,3884,195.56,14,Dover-Calais,2.6681697267539217,37.4,32.9,100.0
+PH-UK-1748,Salbutamol,Biologic,Ambient,1826,3329,304.77,11,Dover-Calais,2.193296753696578,24.1,16.5,100.0
+PH-UK-1749,Amoxicillin,Emergency,Ambient,1096,2023,184.74,13,Eurotunnel,1.591022437196132,20.7,16.3,100.0
+PH-UK-1750,Pembrolizumab,Emergency,Ambient,4046,4229,411.36,7,Felixstowe,1.1,7.7,28.7,65.7
+PH-UK-1751,Atorvastatin,Antibiotic,Cold Chain,921,2364,379.67,5,Felixstowe,1.1,5.5,11.7,93.1
+PH-UK-1752,Salbutamol,Biologic,Ambient,3379,4042,425.5,9,Dover-Calais,1.558068287140351,14.0,25.1,91.8
+PH-UK-1753,Insulin,Biologic,Cold Chain,1561,1729,286.63,12,Dover-Calais,2.5881671660356638,31.1,27.1,100.0
+PH-UK-1754,Atorvastatin,Statin,Cold Chain,4091,4318,215.14,11,Eurotunnel,2.6813331673874505,29.5,28.4,100.0
+PH-UK-1755,Adrenaline,Biologic,Cold Chain,1566,2251,22.47,10,Dover-Calais,1.8637071748688419,18.6,20.9,100.0
+PH-UK-1756,Adrenaline,Statin,Cold Chain,4792,3646,242.31,9,Eurotunnel,2.8324339320756984,25.5,39.4,97.7
+PH-UK-1757,Amoxicillin,Biologic,Ambient,2456,3129,132.55,5,Eurotunnel,2.5052551649270347,12.5,23.5,90.5
+PH-UK-1758,Adrenaline,Oncology,Ambient,1967,1418,421.24,10,Heathrow Air,1.1,11.0,41.6,49.8
+PH-UK-1759,Salbutamol,Inhaler,Ambient,1877,3279,251.33,5,Dover-Calais,2.045503251314694,10.2,17.2,96.19999999999999
+PH-UK-1760,Adrenaline,Biologic,Cold Chain,1552,3642,304.28,11,Heathrow Air,1.1,12.1,12.8,100.0
+PH-UK-1761,Insulin,Emergency,Ambient,3042,1188,24.38,12,Felixstowe,1.1,13.2,76.8,0.0
+PH-UK-1762,Salbutamol,Biologic,Cold Chain,583,3307,310.36,7,Eurotunnel,2.125387699573449,14.9,5.3,100.0
+PH-UK-1763,Pembrolizumab,Oncology,Cold Chain,923,3128,323.84,6,Eurotunnel,1.921620938059955,11.5,8.9,100.0
+PH-UK-1764,Atorvastatin,Oncology,Ambient,3566,4063,243.72,14,Eurotunnel,1.6958504056721513,23.7,26.3,100.0
+PH-UK-1765,Adrenaline,Antibiotic,Cold Chain,3895,3379,87.2,14,Eurotunnel,2.156976140464601,30.2,34.6,100.0
+PH-UK-1766,Pembrolizumab,Antibiotic,Cold Chain,3974,4383,165.17,8,Dover-Calais,2.127996132447924,17.0,27.2,96.6
+PH-UK-1767,Salbutamol,Biologic,Ambient,1318,3542,257.55,11,Eurotunnel,2.5871636402175637,28.5,11.2,100.0
+PH-UK-1768,Adrenaline,Inhaler,Cold Chain,1506,3237,345.0,7,Eurotunnel,2.5548467151348815,17.9,14.0,100.0
+PH-UK-1769,Insulin,Biologic,Cold Chain,3285,1430,113.05,5,Eurotunnel,2.784168661866442,13.9,68.9,3.8999999999999915
+PH-UK-1770,Atorvastatin,Emergency,Ambient,3275,3275,319.87,14,Felixstowe,1.1,15.4,30.0,86.2
+PH-UK-1771,Amoxicillin,Emergency,Cold Chain,2261,2889,370.24,11,Dover-Calais,1.708185929780753,18.8,23.5,100.0
+PH-UK-1772,Insulin,Emergency,Cold Chain,753,4352,45.57,13,Dover-Calais,2.3577592166339443,30.7,5.2,100.0
+PH-UK-1773,Salbutamol,Inhaler,Ambient,1307,871,482.48,10,Heathrow Air,1.1,11.0,45.0,43.0
+PH-UK-1774,Pembrolizumab,Oncology,Ambient,1154,1864,349.47,6,Dover-Calais,2.843097579995459,17.1,18.6,100.0
+PH-UK-1775,Salbutamol,Statin,Ambient,1173,1288,13.86,5,Felixstowe,1.1,5.5,27.3,61.9
+PH-UK-1776,Adrenaline,Oncology,Ambient,3191,3035,105.12,12,Eurotunnel,1.6478387766387217,19.8,31.5,96.4
+PH-UK-1777,Pembrolizumab,Antibiotic,Cold Chain,4431,2613,79.33,13,Dover-Calais,1.5852110883793302,20.6,50.9,60.00000000000001
+PH-UK-1778,Amoxicillin,Emergency,Ambient,3679,1706,316.72,7,Felixstowe,1.1,7.7,64.7,0.0
+PH-UK-1779,Salbutamol,Oncology,Ambient,3735,1327,345.62,5,Dover-Calais,1.722051889876757,8.6,84.4,0.0
+PH-UK-1780,Insulin,Inhaler,Cold Chain,3681,2130,161.08,12,Eurotunnel,2.2996204206165025,27.6,51.8,79.20000000000002
+PH-UK-1781,Amoxicillin,Antibiotic,Ambient,2008,1255,147.21,14,Dover-Calais,1.624560041924766,22.7,48.0,72.1
+PH-UK-1782,Pembrolizumab,Antibiotic,Cold Chain,3256,1736,186.84,9,Eurotunnel,1.7802033145768306,16.0,56.3,35.400000000000006
+PH-UK-1783,Salbutamol,Emergency,Cold Chain,1462,3672,169.52,5,Eurotunnel,1.8466018905935044,9.2,11.9,100.0
+PH-UK-1784,Salbutamol,Statin,Cold Chain,986,2632,72.05,11,Dover-Calais,2.6979877614030405,29.7,11.2,100.0
+PH-UK-1785,Amoxicillin,Oncology,Ambient,2416,1917,368.5,8,Dover-Calais,2.159833459956112,17.3,37.8,76.30000000000001
+PH-UK-1786,Salbutamol,Statin,Ambient,518,3538,410.05,6,Eurotunnel,2.5377628070728546,15.2,4.4,100.0
+PH-UK-1787,Pembrolizumab,Statin,Ambient,3002,3151,378.07,5,Eurotunnel,1.9733472059004302,9.9,28.6,72.5
+PH-UK-1788,Pembrolizumab,Statin,Cold Chain,3687,2919,275.61,12,Dover-Calais,2.0001837857974447,24.0,37.9,96.2
+PH-UK-1789,Amoxicillin,Antibiotic,Ambient,2921,4112,379.76,14,Dover-Calais,1.7724129353916283,24.8,21.3,100.0
+PH-UK-1790,Salbutamol,Biologic,Ambient,1069,4068,335.72,12,Eurotunnel,2.5947347309602833,31.1,7.9,100.0
+PH-UK-1791,Amoxicillin,Statin,Cold Chain,1172,3583,466.1,13,Eurotunnel,1.8655528397234893,24.3,9.8,100.0
+PH-UK-1792,Pembrolizumab,Statin,Ambient,3177,3461,243.3,5,Felixstowe,1.1,5.5,27.5,61.5
+PH-UK-1793,Amoxicillin,Statin,Ambient,3901,4458,56.57,6,Eurotunnel,2.17751608839487,13.1,26.3,86.69999999999999
+PH-UK-1794,Insulin,Statin,Ambient,3545,2542,301.49,13,Dover-Calais,2.9497423251504262,38.3,41.8,100.0
+PH-UK-1795,Pembrolizumab,Emergency,Cold Chain,3691,4476,355.73,14,Eurotunnel,2.689970649513735,37.7,24.7,100.0
+PH-UK-1796,Salbutamol,Emergency,Cold Chain,4024,3449,149.38,12,Eurotunnel,2.235066805685402,26.8,35.0,100.0
+PH-UK-1797,Salbutamol,Antibiotic,Cold Chain,3691,1899,168.54,11,Dover-Calais,2.1295318733813153,23.4,58.3,53.599999999999994
+PH-UK-1798,Insulin,Oncology,Ambient,2197,2911,368.32,14,Dover-Calais,2.4165575392732284,33.8,22.6,100.0
+PH-UK-1799,Amoxicillin,Biologic,Ambient,2867,1549,42.46,7,Eurotunnel,2.558248963264603,17.9,55.5,42.699999999999996
+PH-UK-1800,Pembrolizumab,Statin,Ambient,695,947,82.09,7,Eurotunnel,1.7845070172796427,12.5,22.0,93.5
+PH-UK-1801,Pembrolizumab,Statin,Cold Chain,3309,3477,306.82,12,Eurotunnel,2.663291049772975,32.0,28.6,100.0
+PH-UK-1802,Atorvastatin,Oncology,Cold Chain,2567,2617,63.53,13,Felixstowe,1.1,14.3,29.4,84.10000000000001
+PH-UK-1803,Amoxicillin,Oncology,Ambient,2814,1623,203.89,14,Dover-Calais,2.276888284917895,31.9,52.0,91.69999999999999
+PH-UK-1804,Adrenaline,Antibiotic,Cold Chain,2791,2052,53.95,10,Dover-Calais,1.599298962028318,16.0,40.8,66.4
+PH-UK-1805,Atorvastatin,Inhaler,Ambient,1721,2137,55.11,11,Dover-Calais,2.7276872409522337,30.0,24.2,100.0
+PH-UK-1806,Adrenaline,Statin,Cold Chain,3498,3054,364.33,13,Eurotunnel,2.1085502635761078,27.4,34.4,100.0
+PH-UK-1807,Amoxicillin,Statin,Cold Chain,2740,2396,39.72,6,Felixstowe,1.1,6.6,34.3,51.2
+PH-UK-1808,Adrenaline,Antibiotic,Ambient,3333,1267,107.29,13,Dover-Calais,2.335608280366267,30.4,78.9,33.39999999999998
+PH-UK-1809,Atorvastatin,Statin,Ambient,4026,1118,407.51,12,Dover-Calais,1.6736089058338388,20.1,108.0,0.0
+PH-UK-1810,Adrenaline,Statin,Cold Chain,3378,3496,10.09,13,Felixstowe,1.1,14.3,29.0,84.9
+PH-UK-1811,Insulin,Biologic,Cold Chain,2772,1888,135.5,9,Dover-Calais,2.0693128324529653,18.6,44.0,67.80000000000001
+PH-UK-1812,Atorvastatin,Inhaler,Ambient,3893,2040,154.93,13,Eurotunnel,1.790707850825789,23.3,57.2,55.5
+PH-UK-1813,Pembrolizumab,Antibiotic,Ambient,513,1980,354.03,5,Dover-Calais,2.722847187590994,13.6,7.8,100.0
+PH-UK-1814,Atorvastatin,Inhaler,Cold Chain,3830,2901,367.69,9,Dover-Calais,2.2187398953994943,20.0,39.6,80.8
+PH-UK-1815,Amoxicillin,Antibiotic,Ambient,4911,2036,17.29,14,Eurotunnel,1.9948265629092194,27.9,72.4,38.89999999999998
+PH-UK-1816,Atorvastatin,Inhaler,Ambient,1767,3350,291.2,6,Eurotunnel,1.929377649869447,11.6,15.8,100.0
+PH-UK-1817,Insulin,Statin,Cold Chain,4160,2227,116.77,8,Felixstowe,1.1,8.8,56.0,14.400000000000002
+PH-UK-1818,Atorvastatin,Inhaler,Ambient,3586,4214,323.64,5,Felixstowe,1.1,5.5,25.5,65.5
+PH-UK-1819,Atorvastatin,Statin,Ambient,3631,3015,117.84,12,Eurotunnel,2.7039274613964697,32.4,36.1,100.0
+PH-UK-1820,Amoxicillin,Oncology,Ambient,922,3590,474.55,5,Eurotunnel,1.5492207432539027,7.7,7.7,100.0
+PH-UK-1821,Adrenaline,Emergency,Ambient,1232,1389,361.11,6,Dover-Calais,2.608312952979727,15.6,26.6,93.6
+PH-UK-1822,Insulin,Antibiotic,Ambient,3348,1890,136.43,9,Dover-Calais,2.486226063538645,22.4,53.1,60.999999999999986
+PH-UK-1823,Adrenaline,Antibiotic,Cold Chain,4001,2794,234.69,13,Eurotunnel,1.7307241921481422,22.5,43.0,81.5
+PH-UK-1824,Pembrolizumab,Oncology,Cold Chain,1812,3903,408.28,9,Felixstowe,1.1,9.9,13.9,100.0
+PH-UK-1825,Pembrolizumab,Biologic,Cold Chain,4446,1863,106.28,9,Heathrow Air,1.1,9.9,71.6,0.0
+PH-UK-1826,Adrenaline,Biologic,Cold Chain,4654,3171,465.75,13,Felixstowe,1.1,14.3,44.0,54.900000000000006
+PH-UK-1827,Adrenaline,Biologic,Ambient,2761,1949,42.76,11,Eurotunnel,2.2584625568258976,24.8,42.5,89.4
+PH-UK-1828,Pembrolizumab,Biologic,Ambient,4546,3928,356.38,14,Dover-Calais,1.5628748437885167,21.9,34.7,96.29999999999998
+PH-UK-1829,Amoxicillin,Inhaler,Cold Chain,4117,3463,48.0,13,Dover-Calais,1.7906759007929176,23.3,35.7,98.5
+PH-UK-1830,Salbutamol,Biologic,Ambient,3799,1252,245.36,5,Felixstowe,1.1,5.5,91.0,0.0
+PH-UK-1831,Insulin,Inhaler,Cold Chain,2044,2836,171.8,5,Eurotunnel,2.236827161166442,11.2,21.6,90.39999999999999
+PH-UK-1832,Adrenaline,Oncology,Ambient,4130,3631,46.84,9,Dover-Calais,2.94503266607454,26.5,34.1,100.0
+PH-UK-1833,Pembrolizumab,Inhaler,Cold Chain,4713,3174,175.58,6,Dover-Calais,2.196386419020703,13.2,44.5,50.599999999999994
+PH-UK-1834,Pembrolizumab,Emergency,Ambient,1639,1456,327.42,9,Eurotunnel,2.7892531457944933,25.1,33.8,100.0
+PH-UK-1835,Adrenaline,Biologic,Ambient,1521,887,221.4,7,Eurotunnel,1.9120402380980905,13.4,51.4,37.400000000000006
+PH-UK-1836,Amoxicillin,Statin,Ambient,1439,3105,101.49,14,Eurotunnel,1.5276950972625722,21.4,13.9,100.0
+PH-UK-1837,Pembrolizumab,Inhaler,Ambient,3268,3326,245.62,5,Dover-Calais,2.5260656920497446,12.6,29.5,78.8
+PH-UK-1838,Amoxicillin,Statin,Ambient,4751,3722,301.98,7,Eurotunnel,1.8221532402443765,12.8,38.3,61.80000000000001
+PH-UK-1839,Salbutamol,Inhaler,Ambient,664,3620,93.22,11,Felixstowe,1.1,12.1,5.5,100.0
+PH-UK-1840,Atorvastatin,Inhaler,Cold Chain,4548,2528,75.13,13,Felixstowe,1.1,14.3,54.0,34.900000000000006
+PH-UK-1841,Insulin,Statin,Ambient,3730,3599,83.7,10,Dover-Calais,2.632075446945631,26.3,31.1,100.0
+PH-UK-1842,Atorvastatin,Statin,Ambient,4735,2407,44.4,5,Heathrow Air,1.1,5.5,59.0,0.0
+PH-UK-1843,Adrenaline,Oncology,Cold Chain,4662,1943,308.38,7,Dover-Calais,2.716742663348505,19.0,72.0,13.0
+PH-UK-1844,Salbutamol,Oncology,Cold Chain,600,1529,344.06,9,Heathrow Air,1.1,9.9,11.8,100.0
+PH-UK-1845,Salbutamol,Inhaler,Cold Chain,3543,1223,156.16,6,Eurotunnel,2.3806963302146413,14.3,86.9,0.0
+PH-UK-1846,Atorvastatin,Emergency,Cold Chain,4479,4472,175.45,7,Heathrow Air,1.1,7.7,30.0,63.1
+PH-UK-1847,Pembrolizumab,Emergency,Ambient,2080,4274,35.37,13,Heathrow Air,1.1,14.3,14.6,100.0
+PH-UK-1848,Salbutamol,Emergency,Cold Chain,2805,1086,486.96,7,Dover-Calais,1.733447264207185,12.1,77.5,0.0
+PH-UK-1849,Salbutamol,Oncology,Ambient,1743,3368,156.11,7,Heathrow Air,1.1,7.7,15.5,92.1
+PH-UK-1850,Pembrolizumab,Statin,Cold Chain,813,4461,456.89,8,Eurotunnel,1.8568572192652024,14.9,5.5,100.0
+PH-UK-1851,Salbutamol,Biologic,Cold Chain,4448,1876,384.84,7,Eurotunnel,2.527504653046914,17.7,71.1,10.900000000000006
+PH-UK-1852,Atorvastatin,Statin,Cold Chain,4934,4135,336.59,9,Dover-Calais,2.3155419612832504,20.8,35.8,90.80000000000001
+PH-UK-1853,Salbutamol,Emergency,Cold Chain,4033,3371,46.19,9,Heathrow Air,1.1,9.9,35.9,57.900000000000006
+PH-UK-1854,Adrenaline,Antibiotic,Cold Chain,1660,840,357.97,7,Dover-Calais,2.7085473208016397,19.0,59.3,38.400000000000006
+PH-UK-1855,Amoxicillin,Emergency,Ambient,2240,2005,442.77,10,Heathrow Air,1.1,11.0,33.5,66.0
+PH-UK-1856,Salbutamol,Statin,Cold Chain,2151,3940,149.2,11,Dover-Calais,2.1618441891812763,23.8,16.4,100.0
+PH-UK-1857,Adrenaline,Antibiotic,Cold Chain,3938,1976,242.35,8,Eurotunnel,2.2535693074600958,18.0,59.8,34.400000000000006
+PH-UK-1858,Atorvastatin,Statin,Ambient,829,4221,308.11,11,Eurotunnel,2.772934983681027,30.5,5.9,100.0
+PH-UK-1859,Atorvastatin,Emergency,Ambient,2038,2903,419.38,9,Eurotunnel,2.9082966516171345,26.2,21.1,100.0
+PH-UK-1860,Salbutamol,Biologic,Cold Chain,3513,2164,494.85,7,Eurotunnel,1.6329595104625922,11.4,48.7,36.8
+PH-UK-1861,Amoxicillin,Inhaler,Cold Chain,1791,2760,108.76,11,Eurotunnel,1.7964109260870404,19.8,19.5,100.0
+PH-UK-1862,Salbutamol,Statin,Cold Chain,2752,1868,163.16,13,Dover-Calais,2.0523388444874655,26.7,44.2,91.69999999999999
+PH-UK-1863,Insulin,Statin,Ambient,1412,3012,254.22,7,Eurotunnel,1.6662914789630632,11.7,14.1,100.0
+PH-UK-1864,Amoxicillin,Biologic,Cold Chain,3507,3146,155.27,7,Dover-Calais,2.2104621853086956,15.5,33.4,79.7
+PH-UK-1865,Adrenaline,Biologic,Cold Chain,4558,3835,447.38,10,Eurotunnel,1.8441421760161851,18.4,35.7,83.79999999999998
+PH-UK-1866,Adrenaline,Oncology,Ambient,889,2887,34.97,12,Dover-Calais,1.9365321930774633,23.2,9.2,100.0
+PH-UK-1867,Adrenaline,Inhaler,Ambient,2684,2460,111.99,7,Eurotunnel,1.8719548355853042,13.1,32.7,73.89999999999999
+PH-UK-1868,Salbutamol,Oncology,Ambient,3905,3886,314.37,7,Eurotunnel,2.7345041258938356,19.1,30.1,97.1
+PH-UK-1869,Insulin,Emergency,Cold Chain,3083,3282,200.88,9,Dover-Calais,1.7729384229142444,16.0,28.2,91.6
+PH-UK-1870,Amoxicillin,Statin,Cold Chain,3120,4250,117.5,9,Eurotunnel,2.6938897990460386,24.2,22.0,100.0
+PH-UK-1871,Atorvastatin,Inhaler,Cold Chain,2766,2810,301.79,9,Felixstowe,1.1,9.9,29.5,70.7
+PH-UK-1872,Adrenaline,Antibiotic,Ambient,1410,4072,414.86,14,Dover-Calais,1.760537116591325,24.6,10.4,100.0
+PH-UK-1873,Pembrolizumab,Emergency,Cold Chain,2453,2551,60.32,9,Felixstowe,1.1,9.9,28.8,72.1
+PH-UK-1874,Pembrolizumab,Inhaler,Cold Chain,1159,1624,29.88,8,Felixstowe,1.1,8.8,21.4,83.60000000000001
+PH-UK-1875,Salbutamol,Inhaler,Cold Chain,4517,2509,21.27,14,Heathrow Air,1.1,15.4,54.0,38.2
+PH-UK-1876,Amoxicillin,Inhaler,Cold Chain,4307,1017,416.47,7,Felixstowe,1.1,7.7,127.1,0.0
+PH-UK-1877,Pembrolizumab,Emergency,Cold Chain,3778,3153,443.58,6,Eurotunnel,2.29278302364456,13.8,35.9,69.60000000000001
+PH-UK-1878,Atorvastatin,Oncology,Cold Chain,777,2935,381.63,12,Eurotunnel,2.9613828452331976,35.5,7.9,100.0
+PH-UK-1879,Adrenaline,Inhaler,Cold Chain,1685,1997,299.92,12,Dover-Calais,2.198142487760651,26.4,25.3,100.0
+PH-UK-1880,Adrenaline,Statin,Cold Chain,2387,2386,337.72,9,Heathrow Air,1.1,9.9,30.0,69.7
+PH-UK-1881,Pembrolizumab,Oncology,Cold Chain,1328,1382,101.61,7,Dover-Calais,1.7996818561336374,12.6,28.8,80.19999999999999
+PH-UK-1882,Salbutamol,Oncology,Cold Chain,4896,2799,424.47,5,Eurotunnel,1.9276751695670429,9.6,52.5,23.799999999999997
+PH-UK-1883,Adrenaline,Antibiotic,Cold Chain,1988,2102,173.79,14,Felixstowe,1.1,15.4,28.4,89.4
+PH-UK-1884,Pembrolizumab,Inhaler,Cold Chain,2504,1920,53.42,5,Dover-Calais,2.751103493947075,13.8,39.1,63.2
+PH-UK-1885,Pembrolizumab,Antibiotic,Ambient,1841,1321,215.82,8,Heathrow Air,1.1,8.8,41.8,42.80000000000001
+PH-UK-1886,Pembrolizumab,Statin,Ambient,2808,2001,371.11,13,Dover-Calais,2.188609995765608,28.5,42.1,100.0
+PH-UK-1887,Adrenaline,Biologic,Cold Chain,903,2448,243.26,11,Dover-Calais,2.8878678895958236,31.8,11.1,100.0
+PH-UK-1888,Pembrolizumab,Inhaler,Ambient,3331,3194,374.3,6,Heathrow Air,1.1,6.6,31.3,57.199999999999996
+PH-UK-1889,Adrenaline,Emergency,Ambient,1647,3721,421.33,14,Eurotunnel,2.009829440073348,28.1,13.3,100.0
+PH-UK-1890,Insulin,Inhaler,Ambient,3302,2267,241.54,6,Dover-Calais,2.080566704911507,12.5,43.7,50.099999999999994
+PH-UK-1891,Adrenaline,Biologic,Cold Chain,2494,1378,264.11,10,Dover-Calais,1.8203808695731705,18.2,54.3,46.0
+PH-UK-1892,Adrenaline,Emergency,Ambient,1870,4438,423.84,14,Felixstowe,1.1,15.4,12.6,100.0
+PH-UK-1893,Adrenaline,Statin,Ambient,1172,977,207.63,13,Felixstowe,1.1,14.3,36.0,70.9
+PH-UK-1894,Atorvastatin,Inhaler,Ambient,855,1601,431.28,14,Dover-Calais,2.8449228921967853,39.8,16.0,100.0
+PH-UK-1895,Pembrolizumab,Statin,Cold Chain,840,3365,63.37,7,Eurotunnel,1.606927922796854,11.2,7.5,100.0
+PH-UK-1896,Atorvastatin,Emergency,Cold Chain,4715,1348,493.9,8,Eurotunnel,2.9180841677845706,23.3,104.9,0.0
+PH-UK-1897,Pembrolizumab,Statin,Ambient,529,2394,209.43,13,Eurotunnel,2.182250655721094,28.4,6.6,100.0
+PH-UK-1898,Amoxicillin,Oncology,Cold Chain,2615,4019,39.07,14,Dover-Calais,1.7975941246740215,25.2,19.5,100.0
+PH-UK-1899,Salbutamol,Emergency,Ambient,742,4359,420.57,13,Dover-Calais,2.657218272407988,34.5,5.1,100.0
+PH-UK-1900,Amoxicillin,Statin,Cold Chain,3673,1685,196.7,11,Dover-Calais,2.8729810652380467,31.6,65.4,64.0
+PH-UK-1901,Salbutamol,Antibiotic,Cold Chain,2895,4106,12.07,14,Dover-Calais,2.778501466049519,38.9,21.2,100.0
+PH-UK-1902,Salbutamol,Emergency,Cold Chain,4416,4403,487.48,6,Eurotunnel,2.1862974641385478,13.1,30.1,79.1
+PH-UK-1903,Pembrolizumab,Antibiotic,Cold Chain,1504,1712,85.97,9,Dover-Calais,2.2338694846037415,20.1,26.4,100.0
+PH-UK-1904,Amoxicillin,Biologic,Cold Chain,2815,1172,470.71,8,Heathrow Air,1.1,8.8,72.1,0.0
+PH-UK-1905,Adrenaline,Biologic,Ambient,1084,3625,465.55,10,Dover-Calais,2.3191538688578044,23.2,9.0,100.0
+PH-UK-1906,Adrenaline,Antibiotic,Ambient,1956,1243,145.69,7,Felixstowe,1.1,7.7,47.2,28.699999999999996
+PH-UK-1907,Pembrolizumab,Statin,Cold Chain,3519,1040,478.67,8,Dover-Calais,2.317884460486674,18.5,101.5,0.0
+PH-UK-1908,Adrenaline,Emergency,Cold Chain,2909,4463,89.64,5,Heathrow Air,1.1,5.5,19.6,77.3
+PH-UK-1909,Amoxicillin,Emergency,Cold Chain,3751,4295,342.28,9,Felixstowe,1.1,9.9,26.2,77.30000000000001
+PH-UK-1910,Salbutamol,Statin,Ambient,2588,3420,321.43,14,Dover-Calais,1.9619912077559865,27.5,22.7,100.0
+PH-UK-1911,Amoxicillin,Biologic,Cold Chain,1751,2122,402.66,14,Dover-Calais,1.6213656707143997,22.7,24.8,100.0
+PH-UK-1912,Amoxicillin,Inhaler,Cold Chain,4802,2567,208.69,5,Felixstowe,1.1,5.5,56.1,4.299999999999997
+PH-UK-1913,Adrenaline,Emergency,Cold Chain,1379,1050,55.8,6,Dover-Calais,2.4604096411627356,14.8,39.4,65.60000000000001
+PH-UK-1914,Insulin,Antibiotic,Ambient,3247,1935,229.87,6,Felixstowe,1.1,6.6,50.3,19.200000000000003
+PH-UK-1915,Pembrolizumab,Inhaler,Ambient,2553,801,243.93,8,Heathrow Air,1.1,8.8,95.6,0.0
+PH-UK-1916,Amoxicillin,Statin,Ambient,4451,1185,129.31,14,Felixstowe,1.1,15.4,112.7,0.0
+PH-UK-1917,Salbutamol,Emergency,Cold Chain,4577,3743,16.16,13,Dover-Calais,1.9048125623428112,24.8,36.7,100.0
+PH-UK-1918,Pembrolizumab,Statin,Cold Chain,2263,4275,397.23,5,Eurotunnel,1.9955635586633687,10.0,15.9,98.2
+PH-UK-1919,Adrenaline,Biologic,Ambient,1137,3335,205.11,13,Felixstowe,1.1,14.3,10.2,100.0
+PH-UK-1920,Amoxicillin,Oncology,Ambient,4765,3246,273.16,10,Dover-Calais,2.950828119077024,29.5,44.0,100.0
+PH-UK-1921,Insulin,Statin,Cold Chain,3619,3875,334.85,8,Felixstowe,1.1,8.8,28.0,70.4
+PH-UK-1922,Insulin,Antibiotic,Ambient,1272,3494,158.8,12,Felixstowe,1.1,13.2,10.9,100.0
+PH-UK-1923,Adrenaline,Emergency,Ambient,3809,3558,482.08,7,Felixstowe,1.1,7.7,32.1,58.9
+PH-UK-1924,Atorvastatin,Biologic,Cold Chain,3737,1898,12.73,5,Dover-Calais,1.819400270952187,9.1,59.1,9.099999999999994
+PH-UK-1925,Insulin,Antibiotic,Ambient,3191,1845,102.11,10,Eurotunnel,2.949409436955526,29.5,51.9,84.7
+PH-UK-1926,Salbutamol,Emergency,Cold Chain,651,806,259.2,9,Eurotunnel,2.284550982413614,20.6,24.2,100.0
+PH-UK-1927,Insulin,Inhaler,Ambient,3332,2298,87.99,11,Dover-Calais,2.6895504663191767,29.6,43.5,100.0
+PH-UK-1928,Salbutamol,Antibiotic,Ambient,3298,3651,135.5,12,Felixstowe,1.1,13.2,27.1,85.39999999999999
+PH-UK-1929,Adrenaline,Antibiotic,Cold Chain,1965,2335,201.12,14,Eurotunnel,1.8473965840903723,25.9,25.2,100.0
+PH-UK-1930,Atorvastatin,Antibiotic,Cold Chain,3247,2422,124.37,14,Dover-Calais,1.7989607549918316,25.2,40.2,95.19999999999999
+PH-UK-1931,Atorvastatin,Oncology,Cold Chain,1816,3701,120.1,12,Eurotunnel,2.6130948879041265,31.4,14.7,100.0
+PH-UK-1932,Amoxicillin,Antibiotic,Cold Chain,600,3051,469.41,8,Felixstowe,1.1,8.8,5.9,100.0
+PH-UK-1933,Amoxicillin,Antibiotic,Ambient,1274,3279,46.53,14,Felixstowe,1.1,15.4,11.7,100.0
+PH-UK-1934,Amoxicillin,Antibiotic,Ambient,2379,1534,371.61,13,Felixstowe,1.1,14.3,46.5,49.900000000000006
+PH-UK-1935,Adrenaline,Statin,Ambient,1186,3970,334.65,7,Dover-Calais,2.732319868608902,19.1,9.0,100.0
+PH-UK-1936,Amoxicillin,Emergency,Ambient,2070,4408,419.01,8,Eurotunnel,2.524814558149783,20.2,14.1,100.0
+PH-UK-1937,Adrenaline,Antibiotic,Ambient,3132,4087,69.96,9,Dover-Calais,2.80452383552025,25.2,23.0,100.0
+PH-UK-1938,Salbutamol,Antibiotic,Ambient,1417,1270,438.77,14,Eurotunnel,2.4889219416411708,34.8,33.5,100.0
+PH-UK-1939,Adrenaline,Antibiotic,Ambient,4449,4405,413.81,6,Dover-Calais,2.8586865193620796,17.2,30.3,91.0
+PH-UK-1940,Insulin,Oncology,Cold Chain,1444,2235,189.56,7,Eurotunnel,2.229345960197806,15.6,19.4,100.0
+PH-UK-1941,Salbutamol,Antibiotic,Cold Chain,2224,1831,356.96,5,Dover-Calais,2.5057071421039936,12.5,36.4,64.7
+PH-UK-1942,Salbutamol,Oncology,Cold Chain,660,4452,473.58,11,Heathrow Air,1.1,12.1,4.4,100.0
+PH-UK-1943,Amoxicillin,Inhaler,Ambient,1123,1480,392.95,12,Dover-Calais,1.9117747519910626,22.9,22.8,100.0
+PH-UK-1944,Adrenaline,Emergency,Cold Chain,4274,1706,466.71,11,Dover-Calais,1.7209190763192055,18.9,75.2,6.29999999999999
+PH-UK-1945,Amoxicillin,Statin,Ambient,4602,2339,462.56,6,Dover-Calais,2.922143623306866,17.5,59.0,34.5
+PH-UK-1946,Insulin,Oncology,Cold Chain,3837,3779,252.97,13,Dover-Calais,1.6713197223716767,21.7,30.5,100.0
+PH-UK-1947,Adrenaline,Biologic,Ambient,3540,4380,316.89,12,Eurotunnel,1.7695831456612912,21.2,24.2,100.0
+PH-UK-1948,Insulin,Oncology,Ambient,3874,2784,355.51,14,Felixstowe,1.1,15.4,41.7,62.8
+PH-UK-1949,Amoxicillin,Oncology,Cold Chain,2823,2044,225.55,10,Dover-Calais,2.5462649883862896,25.5,41.4,93.7
+PH-UK-1950,Insulin,Antibiotic,Ambient,646,4105,319.58,10,Dover-Calais,1.7370987684308736,17.4,4.7,100.0
+PH-UK-1951,Atorvastatin,Inhaler,Ambient,1518,2922,163.41,7,Felixstowe,1.1,7.7,15.6,91.9
+PH-UK-1952,Adrenaline,Statin,Cold Chain,1580,2475,77.89,12,Dover-Calais,2.14489177655187,25.7,19.2,100.0
+PH-UK-1953,Insulin,Inhaler,Ambient,1554,2712,441.32,10,Dover-Calais,2.950767709157704,29.5,17.2,100.0
+PH-UK-1954,Pembrolizumab,Inhaler,Ambient,1278,1416,281.05,14,Dover-Calais,1.7682272999446842,24.8,27.1,100.0
+PH-UK-1955,Atorvastatin,Antibiotic,Cold Chain,3210,2687,154.51,14,Felixstowe,1.1,15.4,35.8,74.60000000000001
+PH-UK-1956,Pembrolizumab,Oncology,Ambient,2153,3359,49.81,9,Dover-Calais,2.549118398008947,22.9,19.2,100.0
+PH-UK-1957,Salbutamol,Inhaler,Ambient,4955,1309,440.11,5,Dover-Calais,2.4910304882890224,12.5,113.6,0.0
+PH-UK-1958,Pembrolizumab,Emergency,Ambient,3512,1536,49.42,12,Eurotunnel,1.9908802646233865,23.9,68.6,34.5
+PH-UK-1959,Insulin,Oncology,Cold Chain,4507,862,278.14,9,Eurotunnel,1.8124629919577908,16.3,156.9,0.0
+PH-UK-1960,Atorvastatin,Inhaler,Ambient,4779,1666,325.01,6,Heathrow Air,1.1,6.6,86.1,0.0
+PH-UK-1961,Salbutamol,Inhaler,Ambient,3546,3929,378.28,10,Heathrow Air,1.1,11.0,27.1,78.8
+PH-UK-1962,Amoxicillin,Inhaler,Ambient,3314,3046,106.01,9,Heathrow Air,1.1,9.9,32.6,64.5
+PH-UK-1963,Pembrolizumab,Antibiotic,Cold Chain,880,2405,281.06,9,Eurotunnel,1.59887762755495,14.4,11.0,100.0
+PH-UK-1964,Insulin,Inhaler,Cold Chain,1112,3003,343.86,12,Dover-Calais,1.8673981967728857,22.4,11.1,100.0
+PH-UK-1965,Atorvastatin,Inhaler,Ambient,4369,3434,172.12,13,Dover-Calais,2.2605492544587036,29.4,38.2,100.0
+PH-UK-1966,Pembrolizumab,Biologic,Ambient,3511,1990,120.16,5,Dover-Calais,1.7511539257729627,8.8,52.9,20.600000000000005
+PH-UK-1967,Pembrolizumab,Antibiotic,Ambient,1034,2327,288.29,7,Dover-Calais,2.214025603686412,15.5,13.3,100.0
+PH-UK-1968,Adrenaline,Oncology,Ambient,599,1194,81.26,5,Felixstowe,1.1,5.5,15.1,86.3
+PH-UK-1969,Pembrolizumab,Statin,Cold Chain,4987,3646,416.26,8,Dover-Calais,2.797258474321061,22.4,41.0,85.19999999999999
+PH-UK-1970,Insulin,Statin,Ambient,2945,3122,87.5,10,Dover-Calais,2.1281301762358025,21.3,28.3,100.0
+PH-UK-1971,Salbutamol,Biologic,Cold Chain,1760,1076,76.91,10,Eurotunnel,2.3964467318842955,24.0,49.1,73.8
+PH-UK-1972,Salbutamol,Inhaler,Ambient,2980,2962,219.76,6,Felixstowe,1.1,6.6,30.2,59.4
+PH-UK-1973,Salbutamol,Inhaler,Cold Chain,4395,3901,29.66,12,Eurotunnel,2.57277536053057,30.9,33.8,100.0
+PH-UK-1974,Adrenaline,Emergency,Cold Chain,805,1000,94.79,5,Heathrow Air,1.1,5.5,24.2,68.1
+PH-UK-1975,Salbutamol,Inhaler,Ambient,4765,2843,127.27,14,Heathrow Air,1.1,15.4,50.3,45.60000000000001
+PH-UK-1976,Salbutamol,Antibiotic,Cold Chain,4320,1365,276.88,13,Dover-Calais,1.9329031129774819,25.1,94.9,0.0
+PH-UK-1977,Adrenaline,Inhaler,Ambient,3168,4366,34.46,13,Dover-Calais,2.9428908905711113,38.3,21.8,100.0
+PH-UK-1978,Amoxicillin,Oncology,Ambient,741,3053,317.82,6,Dover-Calais,1.509855657034864,9.1,7.3,100.0
+PH-UK-1979,Pembrolizumab,Inhaler,Ambient,2944,1384,112.26,10,Heathrow Air,1.1,11.0,63.8,5.400000000000006
+PH-UK-1980,Salbutamol,Antibiotic,Cold Chain,4378,1996,380.81,7,Felixstowe,1.1,7.7,65.8,0.0
+PH-UK-1981,Insulin,Emergency,Cold Chain,3198,2781,268.86,5,Eurotunnel,2.29271272552051,11.5,34.5,65.5
+PH-UK-1982,Amoxicillin,Inhaler,Ambient,2355,2397,409.3,9,Dover-Calais,2.585380998312409,23.3,29.5,100.0
+PH-UK-1983,Amoxicillin,Oncology,Ambient,2987,1880,229.15,7,Heathrow Air,1.1,7.7,47.7,27.699999999999996
+PH-UK-1984,Adrenaline,Oncology,Cold Chain,2646,3207,461.33,7,Eurotunnel,1.996409760759367,14.0,24.8,92.4
+PH-UK-1985,Insulin,Emergency,Ambient,1280,1354,261.53,11,Felixstowe,1.1,12.1,28.4,79.5
+PH-UK-1986,Atorvastatin,Oncology,Cold Chain,2723,3425,172.02,13,Felixstowe,1.1,14.3,23.9,95.10000000000001
+PH-UK-1987,Amoxicillin,Inhaler,Cold Chain,1100,3843,142.54,5,Eurotunnel,1.9242122158305095,9.6,8.6,100.0
+PH-UK-1988,Pembrolizumab,Statin,Cold Chain,3975,2445,9.06,11,Dover-Calais,2.0551304459678876,22.6,48.8,70.20000000000002
+PH-UK-1989,Pembrolizumab,Inhaler,Cold Chain,3696,1973,421.74,6,Dover-Calais,1.9627826030835438,11.8,56.2,23.0
+PH-UK-1990,Atorvastatin,Inhaler,Ambient,2142,2276,364.01,5,Dover-Calais,1.7247352690993543,8.6,28.2,69.4
+PH-UK-1991,Amoxicillin,Oncology,Cold Chain,1524,1314,144.26,10,Dover-Calais,1.5268943968232311,15.3,34.8,76.30000000000001
+PH-UK-1992,Salbutamol,Biologic,Cold Chain,608,3901,370.98,12,Dover-Calais,1.7685930517453614,21.2,4.7,100.0
+PH-UK-1993,Adrenaline,Biologic,Ambient,4965,4462,402.16,8,Dover-Calais,2.071748623024158,16.6,33.4,83.0
+PH-UK-1994,Insulin,Inhaler,Ambient,3756,3027,23.48,6,Dover-Calais,2.4186824237374336,14.5,37.2,69.1
+PH-UK-1995,Adrenaline,Antibiotic,Cold Chain,1154,1117,257.05,9,Eurotunnel,1.9134536354616227,17.2,31.0,89.6
+PH-UK-1996,Insulin,Antibiotic,Ambient,671,1750,494.02,7,Heathrow Air,1.1,7.7,11.5,100.0
+PH-UK-1997,Pembrolizumab,Oncology,Cold Chain,1265,1103,155.85,10,Dover-Calais,1.915385804851073,19.2,34.4,88.8
+PH-UK-1998,Amoxicillin,Oncology,Ambient,4401,4325,464.38,14,Eurotunnel,1.7423561913710381,24.4,30.5,100.0
+PH-UK-1999,Pembrolizumab,Emergency,Ambient,921,3117,181.4,14,Eurotunnel,1.9676227753530098,27.5,8.9,100.0
