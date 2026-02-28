@@ -22,6 +22,7 @@ This project moves beyond simple "stock counts" by utilizing custom DAX (Data An
 Standard inventory counts are misleading. This metric converts "Units" into "Days of Care" based on UK-specific monthly demand.
 
 Code snippet
+
 Patient Days Remaining = 
 DIVIDE(
     SUM('UK_Pharma_Supply_Risk'[Current_Stock]), 
